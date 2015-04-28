@@ -11,6 +11,9 @@ SUB Göttingen
 Gemeinsamer Bibliotheksverbund (GBV Göttingen)
 [https://github.com/gbv](https://github.com/gbv)
 
+Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz Köln)
+[https://github.com/hbz](https://github.com/hbz)
+
 Deutsche Digitale Bibliothek
 [https://github.com/Deutsche-Digitale-Bibliothek](https://github.com/Deutsche-Digitale-Bibliothek)
 
