@@ -1,4 +1,4 @@
-Liste von Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
+Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
 =================================================================
 
 

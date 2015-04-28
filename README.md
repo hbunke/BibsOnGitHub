@@ -1,11 +1,11 @@
-Liste von Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
+Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
 =================================================================
 
 Bibliotheken und ihre MitarbeiterInnen (besonders natürlich EntwicklerInnen)
-sind zunehmend mit Software- und anderen Projekten auf Github vertreten. Diese
-Liste soll eine Übersicht ermöglichen, _zunächst_ beschränkt auf Deutschland. 
+sind zunehmend mit Software- und anderen Projekten auf Github vertreten. [Diese
+Liste](list.md) soll eine Übersicht ermöglichen, _zunächst_ beschränkt auf Deutschland. 
 
-Die Liste ist noch nicht allzu umfangreich. Ergänzungen und Vorschläge sind
+[Die Liste](list.md) ist noch nicht allzu umfangreich. Ergänzungen und Vorschläge sind
 sehr erwünscht, so dass dies auch ein kollaboratives Projekt wird und der
 Vernetzung dient. Am besten natürlich bitte Änderungen per Pull Request,
 Vorschläge über Issues. Ich nehme aber auch gerne E-Mail Hinweise
