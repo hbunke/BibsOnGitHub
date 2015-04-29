@@ -1,9 +1,11 @@
-Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
-=================================================================
+Bibliothekarische Organisationen und Personen auf GitHub
+========================================================
 
-Bibliotheken und ihre MitarbeiterInnen (besonders natürlich EntwicklerInnen)
-sind zunehmend mit Software- und anderen Projekten auf Github vertreten. [Diese
-Liste](list.md) soll eine Übersicht ermöglichen, _zunächst_ beschränkt auf Deutschland. 
+Bibliotheken und ihre MitarbeiterInnen sind zunehmend mit Software- und
+anderen Projekten auf Github vertreten. [Diese Liste](list.md) soll eine
+Übersicht über bibliothekarische Organisationen und Personen aus dem
+deutschsprachigen Raum ermöglichen. Eine vergleichbare internationale 
+Sammlung gibt es [im Code4Lib Wiki](http://wiki.code4lib.org/Libraries_Sharing_Code).
 
 [Die Liste](list.md) ist noch nicht allzu umfangreich. Ergänzungen und Vorschläge sind
 sehr erwünscht, so dass dies auch ein kollaboratives Projekt wird und der
@@ -33,9 +35,7 @@ Hinweise
 TODOS
 -----
 
--   Schwerpunkte und Stichwörter zu den einzelnen Repositories
-
--   Software 'Tags'
+Siehe https://github.com/hbunke/BibsOnGitHub/issues
 
 
 
