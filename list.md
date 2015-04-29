@@ -40,6 +40,8 @@ Libreas
 Universitätsbibliothek Mannheim
 [https://github.com/UB-Mannheim](https://github.com/UB-Mannheim)
 
+Universitätsbibliothek Leipzig
+[https://github.com/ubleipzig](https://github.com/ubleipzig)
 
 
 EntwicklerInnen / BibliothekarInnen
