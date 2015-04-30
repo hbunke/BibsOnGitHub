@@ -40,6 +40,12 @@ Libreas
 Universitätsbibliothek Mannheim
 [https://github.com/UB-Mannheim](https://github.com/UB-Mannheim)
 
+Zeitschriftendatenbank (ZDB)
+[https://github.com/Zeitschriftendatenbank](https://github.com/Zeitschriftendatenbank)
+
+DINI AG KIM
+[https://github.com/dini-ag-kim](https://github.com/dini-ag-kim)
+
 
 
 EntwicklerInnen / BibliothekarInnen
@@ -72,10 +78,10 @@ Lambert Heller
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
 
-Jorol (GBV?)
+Johann Rolschewski (ZDB)
 [https://github.com/jorol](https://github.com/jorol)
 
-Carsten Klee (Zeitschriftendatenbank)
+Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
 Mathias Lösch (UB Bielefeld)
