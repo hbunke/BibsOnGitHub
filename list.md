@@ -49,7 +49,11 @@ Zeitschriftendatenbank (ZDB)
 DINI AG KIM
 [https://github.com/dini-ag-kim](https://github.com/dini-ag-kim)
 
+swissbib (Swiss Library Catalogue)
+[https://github.com/swissbib](https://github.com/swissbib)
 
+project linked-swissbib
+[https://github.com/linked-swissbib](https://github.com/linked-swissbib)
 
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
