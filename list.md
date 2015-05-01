@@ -58,11 +58,14 @@ project linked-swissbib
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
-Alexander Bigga (SLUB)
-[https://github.com/albig](https://github.com/albig)
+Hans-Georg Becker (UB Dortmund)
+[https://github.com/hagbeck](https://github.com/hagbeck)
 
 Daniel Beucke (SUB Göttingen)
 [https://github.com/dbeucke](https://github.com/dbeucke)
+
+Alexander Bigga (SLUB)
+[https://github.com/albig](https://github.com/albig)
 
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
@@ -76,6 +79,9 @@ Ralf Claussnitzer (SLUB)
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
+André Hagenbruch (UB Bochum)
+[https://github.com/ahagenbruch](https://github.com/ahagenbruch)
+
 Christian Hauschke
 [https://github.com/hauschke](https://github.com/hauschke)
 
@@ -84,9 +90,6 @@ Lambert Heller
 
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
-
-Johann Rolschewski (ZDB)
-[https://github.com/jorol](https://github.com/jorol)
 
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
@@ -124,6 +127,9 @@ Jörg Prante
 Andreas R. (SLUB)
 [https://github.com/art1pirat](https://github.com/art1pirat)
 
+Johann Rolschewski (ZDB)
+[https://github.com/jorol](https://github.com/jorol)
+
 Stephan Rosenke
 [https://github.com/rosenke](https://github.com/rosenke)
 
@@ -138,6 +144,3 @@ Stefan Weil (UB Mannheim)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
-
-
-
