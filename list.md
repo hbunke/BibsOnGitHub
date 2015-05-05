@@ -70,9 +70,6 @@ Alexander Bigga (SLUB)
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
 
-Hendrik Buschmeier (UB Bielefeld)
-[https://github.com/hbuschme](https://github.com/hbuschme)
-
 Ralf Claussnitzer (SLUB)
 [https://github.com/claussni](https://github.com/claussni)
 
