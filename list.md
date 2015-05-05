@@ -94,8 +94,6 @@ Najko Jahn (UB Bielefeld)
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
-Mathias Lösch (UB Bielefeld)
-[https://github.com/mloesch](https://github.com/mloesch)
 
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
