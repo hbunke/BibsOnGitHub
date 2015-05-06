@@ -55,6 +55,9 @@ swissbib (Swiss Library Catalogue)
 project linked-swissbib
 [https://github.com/linked-swissbib](https://github.com/linked-swissbib)
 
+Universitätsbibliothek Paderborn
+[https://github.com/ubpb](https://github.com/ubpb)
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
@@ -139,3 +142,9 @@ Stefan Weil (UB Mannheim)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
+
+René Sprotte (UB Paderborn)
+[https://github.com/renspr](https://github.com/renspr)
+
+Michael Sievers (UB Paderborn)
+[https://github.com/msievers](https://github.com/msievers)
