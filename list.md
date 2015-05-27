@@ -76,6 +76,9 @@ Hendrik Bunke (ZBW)
 Ralf Claussnitzer (SLUB)
 [https://github.com/claussni](https://github.com/claussni)
 
+Martin Czygan
+[https://github.com/miku](https://github.com/miku)
+
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
