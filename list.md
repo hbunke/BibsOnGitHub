@@ -37,6 +37,9 @@ University Library of Humboldt-Universität zu Berlin
 Libreas
 [https://github.com/libreas](https://github.com/libreas)
 
+MPI Collective Goods Library Bonn
+[https://github.com/bibliocoll](https://github.com/bibliocoll)
+
 Universitätsbibliothek Mannheim
 [https://github.com/UB-Mannheim](https://github.com/UB-Mannheim)
 
