@@ -154,3 +154,9 @@ René Sprotte (UB Paderborn)
 
 Michael Sievers (UB Paderborn)
 [https://github.com/msievers](https://github.com/msievers)
+
+Sonstige
+--------
+
+National Library of the Netherlands / Research
+[https://github.com/KBNLresearch](https://github.com/KBNLresearch)
