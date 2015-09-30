@@ -37,8 +37,9 @@ TODOS
 
 Siehe https://github.com/hbunke/BibsOnGitHub/issues
 
+Lizenz
+------
 
-
-
+CC0 1.0 Universal [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
