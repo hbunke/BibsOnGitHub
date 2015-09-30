@@ -20,6 +20,9 @@ Deutsche Digitale Bibliothek
 Bibliothek der Hochschule für Musik FRANZ LISZT Weimar
 [https://github.com/HfMWeimar](https://github.com/HfMWeimar)
 
+Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz)
+[https://github.com/BSZBW](https://github.com/BSZBW)
+
 Bibliotheks-Service-Zentrum
 [https://github.com/Bibliotheks-Service-Zentrum](https://github.com/Bibliotheks-Service-Zentrum)
 nur ein geforktes Repository
@@ -154,3 +157,9 @@ René Sprotte (UB Paderborn)
 
 Michael Sievers (UB Paderborn)
 [https://github.com/msievers](https://github.com/msievers)
+
+Sonstige
+--------
+
+National Library of the Netherlands / Research
+[https://github.com/KBNLresearch](https://github.com/KBNLresearch)
