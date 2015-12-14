@@ -82,6 +82,9 @@ Alexander Bigga (SLUB)
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
 
+Pascal Christoph (hbz)
+[https://github.com/dr0i](https://github.com/dr0i)
+
 Ralf Claussnitzer (SLUB)
 [https://github.com/claussni](https://github.com/claussni)
 
@@ -106,7 +109,6 @@ Najko Jahn (UB Bielefeld)
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
-
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
 
@@ -128,7 +130,7 @@ Sebastian Peters (TIB Hannover)
 Christian Pietsch (UB Bielefeld)
 [https://github.com/pietsch](https://github.com/pietsch)
 
-Adrian Pohl (hbz Köln)
+Adrian Pohl (hbz)
 [https://github.com/acka47](https://github.com/acka47)
 
 Jörg Prante
@@ -146,6 +148,15 @@ Stephan Rosenke
 Jan Schnasse (hbz)
 [https://github.com/jschnasse](https://github.com/jschnasse)
 
+Michael Sievers (UB Paderborn)
+[https://github.com/msievers](https://github.com/msievers)
+
+René Sprotte (UB Paderborn)
+[https://github.com/renspr](https://github.com/renspr)
+
+Fabian Steeg (hbz)
+[https://github.com/fsteeg](https://github.com/fsteeg)
+
 Jakob Voss (GBV)
 [https://github.com/nichtich](https://github.com/nichtich)
 
@@ -155,11 +166,6 @@ Stefan Weil (UB Mannheim)
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
 
-René Sprotte (UB Paderborn)
-[https://github.com/renspr](https://github.com/renspr)
-
-Michael Sievers (UB Paderborn)
-[https://github.com/msievers](https://github.com/msievers)
 
 Sonstige
 --------
