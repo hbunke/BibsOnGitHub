@@ -64,6 +64,9 @@ project linked-swissbib
 Universitätsbibliothek Paderborn
 [https://github.com/ubpb](https://github.com/ubpb)
 
+BVB-KOBV-ALLIANZ
+[https://github.com/bvb-kobv-allianz](https://github.com/bvb-kobv-allianz)
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
