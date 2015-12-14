@@ -82,6 +82,9 @@ Alexander Bigga (SLUB)
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
 
+Pascal Christoph (hbz)
+[https://github.com/dr0i](https://github.com/dr0i)
+
 Ralf Claussnitzer (SLUB)
 [https://github.com/claussni](https://github.com/claussni)
 
@@ -127,7 +130,7 @@ Sebastian Peters (TIB Hannover)
 Christian Pietsch (UB Bielefeld)
 [https://github.com/pietsch](https://github.com/pietsch)
 
-Adrian Pohl (hbz Köln)
+Adrian Pohl (hbz)
 [https://github.com/acka47](https://github.com/acka47)
 
 Jörg Prante
@@ -150,6 +153,9 @@ Michael Sievers (UB Paderborn)
 
 René Sprotte (UB Paderborn)
 [https://github.com/renspr](https://github.com/renspr)
+
+Fabian Steeg (hbz)
+[https://github.com/fsteeg](https://github.com/fsteeg)
 
 Jakob Voss (GBV)
 [https://github.com/nichtich](https://github.com/nichtich)
