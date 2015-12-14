@@ -106,7 +106,6 @@ Najko Jahn (UB Bielefeld)
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
-
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
 
@@ -146,6 +145,12 @@ Stephan Rosenke
 Jan Schnasse (hbz)
 [https://github.com/jschnasse](https://github.com/jschnasse)
 
+Michael Sievers (UB Paderborn)
+[https://github.com/msievers](https://github.com/msievers)
+
+René Sprotte (UB Paderborn)
+[https://github.com/renspr](https://github.com/renspr)
+
 Jakob Voss (GBV)
 [https://github.com/nichtich](https://github.com/nichtich)
 
@@ -155,11 +160,6 @@ Stefan Weil (UB Mannheim)
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
 
-René Sprotte (UB Paderborn)
-[https://github.com/renspr](https://github.com/renspr)
-
-Michael Sievers (UB Paderborn)
-[https://github.com/msievers](https://github.com/msievers)
 
 Sonstige
 --------
