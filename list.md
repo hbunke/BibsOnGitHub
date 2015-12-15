@@ -70,6 +70,9 @@ BVB-KOBV-ALLIANZ
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
+Konstantin Baierer (UB Mannheim)
+[https://github.com/kba](https://github.com/kba)
+
 Hans-Georg Becker (UB Dortmund)
 [https://github.com/hagbeck](https://github.com/hagbeck)
 
