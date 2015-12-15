@@ -67,6 +67,10 @@ Universitätsbibliothek Paderborn
 BVB-KOBV-ALLIANZ
 [https://github.com/bvb-kobv-allianz](https://github.com/bvb-kobv-allianz)
 
+Universitätsbibliothek Tübingen
+[https://github.com/ubtue](https://github.com/ubtue)
+
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
