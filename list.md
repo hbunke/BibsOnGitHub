@@ -164,6 +164,9 @@ René Sprotte (UB Paderborn)
 Fabian Steeg (hbz)
 [https://github.com/fsteeg](https://github.com/fsteeg)
 
+Marco Tullney (TIB/UB Hannover)
+[https://github.com/tullney](https://github.com/tullney)
+
 Jakob Voss (GBV)
 [https://github.com/nichtich](https://github.com/nichtich)
 
