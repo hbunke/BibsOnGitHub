@@ -76,6 +76,9 @@ University Library Heidelberg
 Universitätsbibliothek Dortmund
 [https://github.com/UB-Dortmund](https://github.com/UB-Dortmund)
 
+University Library Bochum
+[https://github.com/ubbochum](https://github.com/ubbochum)
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
