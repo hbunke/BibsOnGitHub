@@ -70,6 +70,17 @@ BVB-KOBV-ALLIANZ
 Universitätsbibliothek Tübingen
 [https://github.com/ubtue](https://github.com/ubtue)
 
+University Library Heidelberg
+[https://github.com/UB-Heidelberg](https://github.com/UB-Heidelberg)
+
+Universitätsbibliothek Dortmund
+[https://github.com/UB-Dortmund](https://github.com/UB-Dortmund)
+
+University Library Bochum
+[https://github.com/ubbochum](https://github.com/ubbochum)
+
+Deutsche Zentralbibliothek für Medizin (ZB MED)
+[https://github.com/zbmed](https://github.com/zbmed)
 
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
