@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #Hendrik Bunke <h.bunke@zbw.eu>
 #2015-04-27
 
@@ -14,4 +16,3 @@ newlist = [newline(li) if li.startswith('https://github.com') else li for li in 
 
 with open(filename, 'w+') as f:
     map(lambda li: f.write(li), newlist)
-
