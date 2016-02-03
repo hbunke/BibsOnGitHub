@@ -184,6 +184,9 @@ Jakob Voss (GBV)
 Stefan Weil (UB Mannheim)
 [https://github.com/stweil](https://github.com/stweil)
 
+Nils Witt (ZBW)
+[https://github.com/n-witt](https://github.com/n-witt)
+
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
 
