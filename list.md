@@ -139,6 +139,9 @@ Sebastian Meyer (SLUB)
 Joachim Neubert (ZBW)
 [https://github.com/jneubert](https://github.com/jneubert)
 
+Oliver Obenland (UB Tübingen)
+[https://github.com/oobenland](https://github.com/oobenland)
+
 Vitali Peil (UB Bielefeld)
 [https://github.com/vpeil](https://github.com/vpeil)
 
