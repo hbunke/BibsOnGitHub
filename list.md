@@ -1,6 +1,6 @@
+---
 Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
-=================================================================
-
+---
 
 Bibliotheken, Verbünde, Zeitschriften
 -------------------------------------
