@@ -82,6 +82,9 @@ University Library Bochum
 Deutsche Zentralbibliothek für Medizin (ZB MED)
 [https://github.com/zbmed](https://github.com/zbmed)
 
+UB Ilmenau
+[https://github.com/ubilmenau](https://github.com/ubilmenau)
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
