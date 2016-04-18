@@ -20,6 +20,9 @@ Deutsche Digitale Bibliothek
 Bibliothek der Hochschule für Musik FRANZ LISZT Weimar
 [https://github.com/HfMWeimar](https://github.com/HfMWeimar)
 
+Bibliothek der Universität Duisburg-Essen
+[https://github.com/unibib-duisburg-essen](https://github.com/unibib-duisburg-essen)
+
 Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz)
 [https://github.com/BSZBW](https://github.com/BSZBW)
 
