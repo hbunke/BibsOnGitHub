@@ -85,6 +85,9 @@ Deutsche Zentralbibliothek für Medizin (ZB MED)
 UB Ilmenau
 [https://github.com/ubilmenau](https://github.com/ubilmenau)
 
+project finc
+[https://github.com/finc](https://github.com/finc)
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
