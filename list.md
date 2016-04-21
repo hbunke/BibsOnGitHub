@@ -129,7 +129,7 @@ Lambert Heller
 
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
-UBL
+
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
