@@ -85,7 +85,7 @@ Deutsche Zentralbibliothek für Medizin (ZB MED)
 UB Ilmenau
 [https://github.com/ubilmenau](https://github.com/ubilmenau)
 
-project finc
+project finc (Cataloguing and Indexing software development at Leipzig University Library)
 [https://github.com/finc](https://github.com/finc)
 
 EntwicklerInnen / BibliothekarInnen
@@ -112,7 +112,7 @@ Pascal Christoph (hbz)
 Ralf Claussnitzer (SLUB)
 [https://github.com/claussni](https://github.com/claussni)
 
-Martin Czygan
+Martin Czygan (UB Leipzig)
 [https://github.com/miku](https://github.com/miku)
 
 Henning Gerhardt (SLUB)
@@ -129,7 +129,7 @@ Lambert Heller
 
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
-
+UBL
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
