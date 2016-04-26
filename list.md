@@ -2,8 +2,8 @@ Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
 =================================================================
 
 
-Bibliotheken, Verbünde, Zeitschriften
--------------------------------------
+Bibliotheken, Verbünde, Zeitschriften und Projekte
+--------------------------------------------------
 
 SUB Göttingen
 [https://github.com/subugoe](https://github.com/subugoe)
