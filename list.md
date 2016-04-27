@@ -103,6 +103,9 @@ Konstantin Baierer (UB Mannheim)
 Hans-Georg Becker (UB Dortmund)
 [https://github.com/hagbeck](https://github.com/hagbeck)
 
+Pascal-Nicolas Becker (TU Berlin) 
+[https://github.com/pnbecker](https://github.com/pnbecker)
+
 Daniel Beucke (SUB Göttingen)
 [https://github.com/dbeucke](https://github.com/dbeucke)
 
@@ -123,6 +126,9 @@ Martin Czygan (UB Leipzig)
 
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
+
+Fabian Fürste (TU Berlin) 
+[https://github.com/johlton](https://github.com/johlton)
 
 André Hagenbruch (UB Bochum)
 [https://github.com/ahagenbruch](https://github.com/ahagenbruch)
@@ -192,6 +198,9 @@ Fabian Steeg (hbz)
 
 Marco Tullney (TIB/UB Hannover)
 [https://github.com/tullney](https://github.com/tullney)
+
+Michaela Voigt (TU Berlin)
+[https://github.com/michaelavoigt](https://github.com/michaelavoigt)
 
 Jakob Voss (GBV)
 [https://github.com/nichtich](https://github.com/nichtich)
