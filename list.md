@@ -90,6 +90,9 @@ UB Ilmenau
 project finc (Cataloguing and Indexing software development at Leipzig University Library)
 [https://github.com/finc](https://github.com/finc)
 
+Max Planck Digital Library - MPDL
+[https://github.com/MPDL](https://github.com/MPDL)
+
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
