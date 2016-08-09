@@ -157,6 +157,9 @@ David Maus (HAB Wolfenbüttel)
 Sebastian Meyer (SLUB)
 [https://github.com/sebastian-meyer](https://github.com/sebastian-meyer)
 
+Jens Mittelbach (SLUB)
+[https://github.com/jmiba](https://github.com/jmiba)
+
 Joachim Neubert (ZBW)
 [https://github.com/jneubert](https://github.com/jneubert)
 
