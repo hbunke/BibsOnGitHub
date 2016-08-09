@@ -26,10 +26,6 @@ Bibliothek der Universität Duisburg-Essen
 Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz)
 [https://github.com/BSZBW](https://github.com/BSZBW)
 
-Bibliotheks-Service-Zentrum
-[https://github.com/Bibliotheks-Service-Zentrum](https://github.com/Bibliotheks-Service-Zentrum)
-nur ein geforktes Repository
-
 Bibliothek der Hochschule Hannover
 [https://github.com/HsH-Bibliothek](https://github.com/HsH-Bibliothek)
 [https://github.com/hsh-bib](https://github.com/hsh-bib)
@@ -93,6 +89,9 @@ UB Ilmenau
 
 project finc (Cataloguing and Indexing software development at Leipzig University Library)
 [https://github.com/finc](https://github.com/finc)
+
+Max Planck Digital Library - MPDL
+[https://github.com/MPDL](https://github.com/MPDL)
 
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
