@@ -145,6 +145,9 @@ Lambert Heller
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
 
+Till Kinstler (Verbundzentrale des GBV)
+[https://github.com/tillk](https://github.com/tillk)
+
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
@@ -208,7 +211,7 @@ Marco Tullney (TIB/UB Hannover)
 Michaela Voigt (TU Berlin)
 [https://github.com/michaelavoigt](https://github.com/michaelavoigt)
 
-Jakob Voss (GBV)
+Jakob Voss (Verbundzentrale des GBV)
 [https://github.com/nichtich](https://github.com/nichtich)
 
 Stefan Weil (UB Mannheim)
