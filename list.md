@@ -142,6 +142,9 @@ Christian Hauschke
 Lambert Heller
 [https://github.com/lambo](https://github.com/lambo)
 
+Moritz Horn
+[https://github.com/hornmo](https://github.com/hornmo)
+
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
 
