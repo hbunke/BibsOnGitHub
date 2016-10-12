@@ -115,6 +115,9 @@ Daniel Beucke (SUB Göttingen)
 Alexander Bigga (SLUB)
 [https://github.com/albig](https://github.com/albig)
 
+Christoph Broschinski (UB Bielefeld)
+[https://github.com/cbroschinski](https://github.com/cbroschinski)
+
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
 
