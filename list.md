@@ -105,12 +105,18 @@ Staatsbibliothek zu Berlin
 ZBW - Leibniz Information Centre for Economics
 [https://github.com/zbw](https://github.com/zbw)
 
+Münchener DigitalisierungsZentrum (MDZ)
+[https://github.com/dbmdz](https://github.com/dbmdz)
+
 
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
 
 Konstantin Baierer (UB Mannheim)
 [https://github.com/kba](https://github.com/kba)
+
+Johannes Baiter (MDZ)
+[https://github.com/jbaiter](https://github.com/jbaiter)
 
 Hans-Georg Becker (UB Dortmund)
 [https://github.com/hagbeck](https://github.com/hagbeck)
