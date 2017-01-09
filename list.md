@@ -96,6 +96,9 @@ Max Planck Digital Library - MPDL
 Universitätsbibliothek der TU Hamburg
 [https://github.com/tubhh](https://github.com/tubhh)
 
+Staats- und Universitätsbibliothek Bremen
+[https://github.com/suub](https://github.com/suub)
+
 
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
