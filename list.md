@@ -102,6 +102,9 @@ Staats- und Universitätsbibliothek Bremen
 Staatsbibliothek zu Berlin
 [https://github.com/StaatsbibliothekBerlin](https://github.com/StaatsbibliothekBerlin)
 
+ZBW - Leibniz Information Centre for Economics
+[https://github.com/zbw](https://github.com/zbw)
+
 
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
@@ -112,7 +115,7 @@ Konstantin Baierer (UB Mannheim)
 Hans-Georg Becker (UB Dortmund)
 [https://github.com/hagbeck](https://github.com/hagbeck)
 
-Pascal-Nicolas Becker (TU Berlin) 
+Pascal-Nicolas Becker (TU Berlin)
 [https://github.com/pnbecker](https://github.com/pnbecker)
 
 Daniel Beucke (SUB Göttingen)
@@ -139,7 +142,7 @@ Martin Czygan (UB Leipzig)
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
-Fabian Fürste (TU Berlin) 
+Fabian Fürste (TU Berlin)
 [https://github.com/johlton](https://github.com/johlton)
 
 André Hagenbruch (UB Bochum)
