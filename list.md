@@ -99,6 +99,9 @@ Universitätsbibliothek der TU Hamburg
 Staats- und Universitätsbibliothek Bremen
 [https://github.com/suub](https://github.com/suub)
 
+Staatsbibliothek zu Berlin
+[https://github.com/StaatsbibliothekBerlin](https://github.com/StaatsbibliothekBerlin)
+
 
 EntwicklerInnen / BibliothekarInnen
 -----------------------------------
