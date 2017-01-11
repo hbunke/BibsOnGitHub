@@ -130,6 +130,9 @@ Daniel Beucke (SUB Göttingen)
 Alexander Bigga (SLUB)
 [https://github.com/albig](https://github.com/albig)
 
+Marcus Bitzl (MDZ)
+[https://github.com/bitzl](https://github.com/bitzl)
+
 Christoph Broschinski (UB Bielefeld)
 [https://github.com/cbroschinski](https://github.com/cbroschinski)
 
@@ -144,6 +147,9 @@ Ralf Claussnitzer (SLUB)
 
 Martin Czygan (UB Leipzig)
 [https://github.com/miku](https://github.com/miku)
+
+Ralf Eichinger (MDZ)
+[https://github.com/datazuul](https://github.com/datazuul)
 
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
@@ -175,6 +181,12 @@ Carsten Klee (ZDB)
 Christian Kurrat (ZB MED)
 [https://github.com/ckurrat](https://github.com/ckurrat)
 
+Matthias Lindinger (MDZ)
+[https://github.com/morpheus-87](https://github.com/morpheus-87)
+
+Christoph Lorenz (MDZ)
+[https://github.com/clorenz](https://github.com/clorenz)
+
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
 
@@ -195,6 +207,9 @@ Oliver Obenland (UB Tübingen)
 
 Vitali Peil (UB Bielefeld)
 [https://github.com/vpeil](https://github.com/vpeil)
+
+Doris Peter (MDZ)
+[https://github.com/DorisPeter](https://github.com/DorisPeter)
 
 Sebastian Peters (TIB Hannover)
 [https://github.com/koelnconcert](https://github.com/koelnconcert)
