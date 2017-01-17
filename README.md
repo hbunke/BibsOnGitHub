@@ -1,45 +1,40 @@
-Bibliothekarische Organisationen und Personen auf GitHub
-========================================================
+Library Institutions and Persons on GitHub
+==========================================
 
-Bibliotheken und ihre MitarbeiterInnen sind zunehmend mit Software- und anderen
-Projekten auf GitHub vertreten. [Diese Liste](list.md) soll eine Übersicht über
-bibliothekarische Organisationen und Personen vor allem aus dem deutschsprachigen,
-gegebenenfalls auch dem europäischen Raum ermöglichen. Eine vergleichbare
-internationale Sammlung gibt es [im Code4LibWiki](http://wiki.code4lib.org/Libraries_Sharing_Code).
+An rapidly increasing number of libraries, librarians, and developers of
+library software do have an account on GitHub and publish their work as open
+source. [This list](list.md) wants to present an (incomplete) overview of these
+accounts. It started focused on Germany, but is now open for any institution or
+person, mainly from Europe. There's already a similar collection in the
+[Code4LibWiki](http://wiki.code4lib.org/Libraries_Sharing_Code), that focuses
+on the US.
 
-[Die Liste](list.md) ist noch nicht allzu umfangreich. Ergänzungen und Vorschläge sind
-sehr erwünscht, so dass dies auch ein kollaboratives Projekt wird und der
-Vernetzung dient. Am besten natürlich bitte Änderungen per Pull Request,
-Vorschläge über Issues. Ich nehme aber auch gerne E-Mail Hinweise
-(h.bunke@zbw.eu) entgegen.
+This is a collaborative project. Additions and suggestions are very welcome.
+Feel free to submit a Pull Request. If you have any questions or suggestions,
+please file an [Issue](https://github.com/hbunke/BibsOnGitHub/issues). You can
+also send an email to h.bunke@zbw.eu.
 
 
-Hinweise
---------
+Hints
+-----
 
--   Wir haben noch keine HTML-Ansicht der Liste. Kommt noch.
-
--   Ich habe erstmal eine Trennung zwischen Bibliotheken und relevanten Organisationen
-    einerseits und Einzelpersonen andererseits vorgenommen. Wo möglich, sind
-    bei den Einzelpersonen die Organisationszugehörigkeiten angegeben.
-
--   Bitte gebt die GitHub URLs mit der Standard Markdown Syntax ein. Für die
-    Darstellung auf GitHub ginge zwar auch die simple URL, aber die Liste soll
-    ja evtl. auch für andere Darstellungs- und Umwandlungszwecke benutzt
-    werden. Wer möchte, kann auch das enthaltene kleine Skript links.py
-    benutzen, das einfache URLs in der Datei list.md in Markdown Syntax
-    umwandelt (dafür muss die URL in einer separaten Zeile stehen):
+-   Please enter the GitHub URLs with the default markdown syntax.
+    For the representation on GitHub the simple URL would be sufficient, but
+    in the future the list could also be used for other display and conversion
+    purposes. If you like, you can run the included small script (links.py),
+    which converts simple URLs in the `list.md` file into Markdown syntax (the
+    URL must be on a separate line):
         python links.py
+
+-   If adding persons please also give their institutional affiliation.
 
 
 TODOS
 -----
 
-Siehe https://github.com/hbunke/BibsOnGitHub/issues
+See https://github.com/hbunke/BibsOnGitHub/issues
 
-Lizenz
-------
+License
+-------
 
 CC0 1.0 Universal [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
-
-

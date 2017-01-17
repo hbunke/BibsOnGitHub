@@ -1,9 +1,11 @@
-Bibliotheken und BibliotheksmitarbeiterInnen auf GitHub
+Libraries, library software developers, and librarians on GitHub
 =================================================================
 
+Now open for any Europe based library, library software developers, or
+librarians.
 
-Bibliotheken, Verbünde, Zeitschriften und Projekte
---------------------------------------------------
+Library institutions, journals, and projects
+---------------------------------------------
 
 SUB Göttingen
 [https://github.com/subugoe](https://github.com/subugoe)
@@ -16,6 +18,12 @@ Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz Köln)
 
 Deutsche Digitale Bibliothek
 [https://github.com/Deutsche-Digitale-Bibliothek](https://github.com/Deutsche-Digitale-Bibliothek)
+
+The British Library
+[https://github.com/britishlibrary](https://github.com/britishlibrary)
+
+British Library Labs Project
+[https://github.com/BL-Labs](https://github.com/BL-Labs)
 
 Bibliothek der Hochschule für Musik FRANZ LISZT Weimar
 [https://github.com/HfMWeimar](https://github.com/HfMWeimar)
@@ -108,9 +116,15 @@ ZBW - Leibniz Information Centre for Economics
 Münchener DigitalisierungsZentrum (MDZ)
 [https://github.com/dbmdz](https://github.com/dbmdz)
 
+National Library of the Netherlands / Research
+[https://github.com/KBNLresearch](https://github.com/KBNLresearch)
 
-EntwicklerInnen / BibliothekarInnen
------------------------------------
+National Library of Finland
+[https://github.com/NatLibFi](https://github.com/NatLibFi)
+
+
+Developers, Librarians
+----------------------
 
 Konstantin Baierer (UB Mannheim)
 [https://github.com/kba](https://github.com/kba)
@@ -261,10 +275,3 @@ Nils Witt (ZBW)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
-
-
-Sonstige
---------
-
-National Library of the Netherlands / Research
-[https://github.com/KBNLresearch](https://github.com/KBNLresearch)
