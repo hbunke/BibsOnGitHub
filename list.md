@@ -7,7 +7,7 @@ librarians.
 Library institutions, journals, and projects
 ---------------------------------------------
 
-SUB Göttingen
+Niedersächsische Staats- und Universität Biliothek Göttingen (SUB Göttingen, SUBUGOE)
 [https://github.com/subugoe](https://github.com/subugoe)
 
 Gemeinsamer Bibliotheksverbund (GBV Göttingen)
