@@ -270,6 +270,9 @@ Jakob Voss (Verbundzentrale des GBV)
 Stefan Weil (UB Mannheim)
 [https://github.com/stweil](https://github.com/stweil)
 
+Nils Windisch (SUB Göttingen)
+[https://github.com/nilswindisch](https://github.com/nilswindisch)
+
 Nils Witt (ZBW)
 [https://github.com/n-witt](https://github.com/n-witt)
 
