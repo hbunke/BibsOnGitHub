@@ -126,7 +126,7 @@ National Library of Finland
 Developers, Librarians
 ----------------------
 
-Konstantin Baierer (UB Mannheim)
+Konstantin Baierer (UB Heidelberg)
 [https://github.com/kba](https://github.com/kba)
 
 Johannes Baiter (MDZ)
@@ -267,8 +267,14 @@ Michaela Voigt (TU Berlin)
 Jakob Voss (Verbundzentrale des GBV)
 [https://github.com/nichtich](https://github.com/nichtich)
 
+Katharina Wäschle (UB Heidelberg)
+[https://github.com/kadowa](https://github.com/kadowa)
+
 Stefan Weil (UB Mannheim)
 [https://github.com/stweil](https://github.com/stweil)
+
+Dulip Withanage (UB Heidelberg)
+[https://github.com/withanage](https://github.com/withanage)
 
 Nils Witt (ZBW)
 [https://github.com/n-witt](https://github.com/n-witt)
