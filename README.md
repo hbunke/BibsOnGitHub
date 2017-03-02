@@ -1,7 +1,7 @@
 Library Institutions and Persons on GitHub
 ==========================================
 
-An rapidly increasing number of libraries, librarians, and developers of
+A rapidly increasing number of libraries, librarians, and developers of
 library software do have an account on GitHub and publish their work as open
 source. [This list](list.md) wants to present an (incomplete) overview of these
 accounts. It started focused on Germany, but is now open for any institution or
