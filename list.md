@@ -273,6 +273,9 @@ Katharina Wäschle (UB Heidelberg)
 Stefan Weil (UB Mannheim)
 [https://github.com/stweil](https://github.com/stweil)
 
+Nils Windisch (SUB Göttingen)
+[https://github.com/nilswindisch](https://github.com/nilswindisch)
+
 Dulip Withanage (UB Heidelberg)
 [https://github.com/withanage](https://github.com/withanage)
 
