@@ -122,6 +122,11 @@ National Library of the Netherlands / Research
 National Library of Finland
 [https://github.com/NatLibFi](https://github.com/NatLibFi)
 
+AK Bibliothek Wien für Sozialwissenschaften
+[https://github.com/AKBibliothekWien](https://github.com/AKBibliothekWien)
+
+Digital Development Team at Oslo Public Library
+[https://github.com/digibib](https://github.com/digibib)
 
 Developers, Librarians
 ----------------------
