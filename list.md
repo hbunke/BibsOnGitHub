@@ -128,6 +128,9 @@ AK Bibliothek Wien für Sozialwissenschaften
 Digital Development Team at Oslo Public Library
 [https://github.com/digibib](https://github.com/digibib)
 
+NTNU University Library (Norway)
+[https://github.com/NTNUUB](https://github.com/NTNUUB)
+
 Developers, Librarians
 ----------------------
 
