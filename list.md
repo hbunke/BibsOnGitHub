@@ -131,6 +131,9 @@ Digital Development Team at Oslo Public Library
 NTNU University Library (Norway)
 [https://github.com/NTNUUB](https://github.com/NTNUUB)
 
+University of Tartu Library
+[https://github.com/University-of-Tartu-Library](https://github.com/University-of-Tartu-Library)
+
 Developers, Librarians
 ----------------------
 
