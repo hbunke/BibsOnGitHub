@@ -197,6 +197,9 @@ Moritz Horn
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
 
+Jan Kamlah (UB Mannheim)
+[https://github.com/JKamlah](https://github.com/JKamlah)
+
 Till Kinstler (Verbundzentrale des GBV)
 [https://github.com/tillk](https://github.com/tillk)
 
