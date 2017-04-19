@@ -134,6 +134,9 @@ NTNU University Library (Norway)
 University of Tartu Library
 [https://github.com/University-of-Tartu-Library](https://github.com/University-of-Tartu-Library)
 
+Staats- und Universitätsbibliothek Hamburg
+[https://github.com/subhh](https://github.com/subhh)
+
 Developers, Librarians
 ----------------------
 
