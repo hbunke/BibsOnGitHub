@@ -203,6 +203,9 @@ Najko Jahn (UB Bielefeld)
 Jan Kamlah (UB Mannheim)
 [https://github.com/JKamlah](https://github.com/JKamlah)
 
+Timotheus Chang-whae Kim (UB Tübingen)
+[https://github.com/socheres](https://github.com/socheres)
+
 Till Kinstler (Verbundzentrale des GBV)
 [https://github.com/tillk](https://github.com/tillk)
 
