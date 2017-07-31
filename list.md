@@ -131,6 +131,15 @@ Digital Development Team at Oslo Public Library
 NTNU University Library (Norway)
 [https://github.com/NTNUUB](https://github.com/NTNUUB)
 
+University of Oslo Library (Norway)
+[https://github.com/scriptotek](https://github.com/scriptotek)
+
+University of Bergen Library (Norway)
+[https://github.com/ubbdst](https://github.com/ubbdst)
+
+BI Norwegian Business School Library (Norway)
+[https://github.com/bisentralen](https://github.com/bisentralen)
+
 University of Tartu Library
 [https://github.com/University-of-Tartu-Library](https://github.com/University-of-Tartu-Library)
 
