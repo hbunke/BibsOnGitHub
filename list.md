@@ -146,6 +146,9 @@ University of Tartu Library
 Staats- und Universitätsbibliothek Hamburg
 [https://github.com/subhh](https://github.com/subhh)
 
+Bern University Library
+[https://github.com/UB-Bern](https://github.com/UB-Bern)
+
 Developers, Librarians
 ----------------------
 
@@ -184,6 +187,9 @@ Ralf Claussnitzer (SLUB)
 
 Martin Czygan (UB Leipzig)
 [https://github.com/miku](https://github.com/miku)
+
+Paul Dodd (UB Bern)
+[https://github.com/pscdodd](https://github.com/pscdodd)
 
 Ralf Eichinger (MDZ)
 [https://github.com/datazuul](https://github.com/datazuul)
