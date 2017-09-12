@@ -278,7 +278,7 @@ Andreas R. (SLUB)
 Johann Rolschewski (ZDB)
 [https://github.com/jorol](https://github.com/jorol)
 
-Stephan Rosenke
+Stephan Rosenke (ULB Darmstadt)
 [https://github.com/rosenke](https://github.com/rosenke)
 
 Jan Schnasse (hbz)
