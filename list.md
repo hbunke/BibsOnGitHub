@@ -209,6 +209,9 @@ Christian Hauschke
 Lambert Heller
 [https://github.com/lambo](https://github.com/lambo)
 
+Elisa Herrmann (HAB Wolfenbüttel)
+[https://github.com/ehrmn](https://github.com/ehrmn)
+
 Moritz Horn
 [https://github.com/hornmo](https://github.com/hornmo)
 
@@ -250,6 +253,9 @@ Jens Mittelbach (SLUB)
 
 Joachim Neubert (ZBW)
 [https://github.com/jneubert](https://github.com/jneubert)
+
+Clemens Neudecker (SBB Berlin)
+[https://github.com/cneud](https://github.com/cneud)
 
 Oliver Obenland (UB Tübingen)
 [https://github.com/oobenland](https://github.com/oobenland)
@@ -316,6 +322,9 @@ Dulip Withanage (UB Heidelberg)
 
 Nils Witt (ZBW)
 [https://github.com/n-witt](https://github.com/n-witt)
+
+Kay-Michael Würzner (BBAW)
+[https://github.com/wrznr](https://github.com/wrznr)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
