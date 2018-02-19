@@ -149,6 +149,9 @@ Staats- und Universitätsbibliothek Hamburg
 Bern University Library
 [https://github.com/UB-Bern](https://github.com/UB-Bern)
 
+Universitätsbibliothek der Technischen Universität Wien
+[https://github.com/UBTUW](https://github.com/UBTUW)
+
 Developers, Librarians
 ----------------------
 
@@ -193,6 +196,9 @@ Paul Dodd (UB Bern)
 
 Ralf Eichinger (MDZ)
 [https://github.com/datazuul](https://github.com/datazuul)
+
+Christian Erlinger
+[https://github.com/LibrErli](https://github.com/LibrErli)
 
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
