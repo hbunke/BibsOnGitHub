@@ -200,6 +200,9 @@ Ralf Eichinger (MDZ)
 Christian Erlinger
 [https://github.com/LibrErli](https://github.com/LibrErli)
 
+Uli Fietz (Badische Landesbibliothek)
+[https://github.com/UliFietz](https://github.com/UliFietz)
+
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
