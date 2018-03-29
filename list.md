@@ -329,6 +329,9 @@ Dulip Withanage (UB Heidelberg)
 Nils Witt (ZBW)
 [https://github.com/n-witt](https://github.com/n-witt)
 
+Torsten Witt (SUBHH)
+[https://github.com/percolatorWitt](https://github.com/percolatorWitt)
+
 Kay-Michael Würzner (BBAW)
 [https://github.com/wrznr](https://github.com/wrznr)
 
