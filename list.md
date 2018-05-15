@@ -152,6 +152,12 @@ Bern University Library
 Universitätsbibliothek der Technischen Universität Wien
 [https://github.com/UBTUW](https://github.com/UBTUW)
 
+FID Judaica
+[https://github.com/FID-Judaica](https://github.com/FID-Judaica)
+
+Fachinformationsdienst Darstellende Kunst
+[https://github.com/FID-Darstellende-Kunst](https://github.com/FID-Darstellende-Kunst)
+
 Developers, Librarians
 ----------------------
 
