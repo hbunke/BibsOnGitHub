@@ -13,6 +13,9 @@ Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen
 Gemeinsamer Bibliotheksverbund (GBV Göttingen)
 [https://github.com/gbv](https://github.com/gbv)
 
+Gemeinsame Verbünde Index (GVI)
+[https://github.com/gemeinsamerverbuendeindex](https://github.com/gemeinsamerverbuendeindex)
+
 Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz Köln)
 [https://github.com/hbz](https://github.com/hbz)
 
