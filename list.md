@@ -188,6 +188,9 @@ Marcus Bitzl (MDZ)
 Christoph Broschinski (UB Bielefeld)
 [https://github.com/cbroschinski](https://github.com/cbroschinski)
 
+Andreas Bohne-Lang (Library of Medical Faculty Mannheim)
+[https://github.com/bohnelang](https://github.com/bohnelang)
+
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
 
