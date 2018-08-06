@@ -254,8 +254,14 @@ Christian Kurrat (ZB MED)
 Matthias Lindinger (MDZ)
 [https://github.com/morpheus-87](https://github.com/morpheus-87)
 
+Felix Lohmeier
+[https://github.com/felixlohmeier](https://github.com/felixlohmeier)
+
 Christoph Lorenz (MDZ)
 [https://github.com/clorenz](https://github.com/clorenz)
+
+Jan Frederik Maas (SUB Hamburg)
+[https://github.com/jfmaas](https://github.com/jfmaas)
 
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
