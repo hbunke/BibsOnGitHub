@@ -299,6 +299,9 @@ Jörg Prante
 Andreas R. (SLUB)
 [https://github.com/art1pirat](https://github.com/art1pirat)
 
+Uwe Reh (HeBIS)
+[https://github.com/Hirnfiedler](https://github.com/Hirnfiedler)
+
 Johann Rolschewski (ZDB)
 [https://github.com/jorol](https://github.com/jorol)
 
