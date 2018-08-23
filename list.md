@@ -162,7 +162,7 @@ Fachinformationsdienst Darstellende Kunst
 [https://github.com/FID-Darstellende-Kunst](https://github.com/FID-Darstellende-Kunst)
 
 Technische Informationsbibliothek (TIB), Hannover
-[GitHub.com/TIBHannover](https://github.com/TIBHannover)
+[https://github.com/TIBHannover](https://github.com/TIBHannover)
 
 
 Developers, Librarians
