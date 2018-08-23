@@ -231,6 +231,9 @@ Christian Hauschke
 Lambert Heller
 [https://github.com/lambo](https://github.com/lambo)
 
+Felix Hemme
+[https://github.com/hemmefelix](https://github.com/hemmefelix)
+
 Elisa Herrmann (HAB Wolfenbüttel)
 [https://github.com/ehrmn](https://github.com/ehrmn)
 
