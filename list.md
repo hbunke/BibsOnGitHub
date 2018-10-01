@@ -288,8 +288,8 @@ Joachim Neubert (ZBW)
 Clemens Neudecker (SBB Berlin)
 [https://github.com/cneud](https://github.com/cneud)
 
-Oliver Obenland (UB Tübingen)
-[https://github.com/oobenland](https://github.com/oobenland)
+Mario Trojan (UB Tübingen)
+[https://github.com/mtrojan-ub](https://github.com/mtrojan-ub)
 
 Vitali Peil (UB Bielefeld)
 [https://github.com/vpeil](https://github.com/vpeil)
