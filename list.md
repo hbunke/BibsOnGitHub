@@ -164,6 +164,8 @@ Fachinformationsdienst Darstellende Kunst
 Technische Informationsbibliothek (TIB), Hannover
 [https://github.com/TIBHannover](https://github.com/TIBHannover)
 
+Zentrale Hochschulbibliothek Lübeck
+[https://github.com/ZentraleHochschulbibliothekHL](https://github.com/ZentraleHochschulbibliothekHL)
 
 Developers, Librarians
 ----------------------
