@@ -125,6 +125,9 @@ National Library of the Netherlands / Research
 National Library of Finland
 [https://github.com/NatLibFi](https://github.com/NatLibFi)
 
+National Library of Luxembourg
+[https://github.com/natliblux](https://github.com/natliblux)
+
 AK Bibliothek Wien für Sozialwissenschaften
 [https://github.com/AKBibliothekWien](https://github.com/AKBibliothekWien)
 
