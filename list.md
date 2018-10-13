@@ -170,6 +170,10 @@ Technische Informationsbibliothek (TIB), Hannover
 Zentrale Hochschulbibliothek Lübeck
 [https://github.com/ZentraleHochschulbibliothekHL](https://github.com/ZentraleHochschulbibliothekHL)
 
+Universitätsbibliothek Bamberg 
+[https://github.com/uniba-ub](https://github.com/uniba-ub)
+
+
 Developers, Librarians
 ----------------------
 
