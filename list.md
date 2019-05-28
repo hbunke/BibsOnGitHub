@@ -264,6 +264,9 @@ Till Kinstler (Verbundzentrale des GBV)
 Carsten Klee (ZDB)
 [https://github.com/cKlee](https://github.com/cKlee)
 
+Axel Klinger (TIB)
+[https://github.com/axel-klinger](https://github.com/axel-klinger)
+
 Christian Kurrat (ZB MED)
 [https://github.com/ckurrat](https://github.com/ckurrat)
 
