@@ -345,6 +345,9 @@ René Sprotte (UB Paderborn)
 Fabian Steeg (hbz)
 [https://github.com/fsteeg](https://github.com/fsteeg)
 
+Sascha Szott (formerly at KOBV-Zentrale, now freelancing)
+[https://github.com/saschaszott](https://github.com/saschaszott)
+
 Marco Tullney (TIB/UB Hannover)
 [https://github.com/tullney](https://github.com/tullney)
 
