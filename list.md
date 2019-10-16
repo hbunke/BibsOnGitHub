@@ -173,6 +173,7 @@ Zentrale Hochschulbibliothek Lübeck
 Universitätsbibliothek Bamberg 
 [https://github.com/uniba-ub](https://github.com/uniba-ub)
 
+Bibliothek-App VideLibri [https://github.com/benibela/videlibri](https://github.com/benibela/videlibri)
 
 Developers, Librarians
 ----------------------
@@ -348,6 +349,8 @@ Fabian Steeg (hbz)
 Marco Tullney (TIB/UB Hannover)
 [https://github.com/tullney](https://github.com/tullney)
 
+Benito van der Zander (VideLibri) [https://github.com/benibela](https://github.com/benibela)
+
 Michaela Voigt (TU Berlin)
 [https://github.com/michaelavoigt](https://github.com/michaelavoigt)
 
@@ -380,3 +383,4 @@ David Zellhöfer (SBB Berlin)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
+
