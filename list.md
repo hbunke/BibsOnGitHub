@@ -286,6 +286,9 @@ Christoph Lorenz (MDZ)
 Jan Frederik Maas (SUB Hamburg)
 [https://github.com/jfmaas](https://github.com/jfmaas)
 
+Martin Malmsten (National Library of Sweden)
+[https://github.com/marma/](https://github.com/marma/)
+
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
 
@@ -384,6 +387,3 @@ David Zellhöfer (SBB Berlin)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
-
-Martin Malmsten (National Library of Sweden)
-[https://github.com/marma/](https://github.com/marma/)
