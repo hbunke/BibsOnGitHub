@@ -173,6 +173,10 @@ Zentrale Hochschulbibliothek Lübeck
 Universitätsbibliothek Bamberg 
 [https://github.com/uniba-ub](https://github.com/uniba-ub)
 
+National Library of Sweden
+[https://github.com/Kungbib/](https://github.com/Kungbib/)
+[https://github.com/Libris/](https://github.com/Libris/)
+
 
 Developers, Librarians
 ----------------------
