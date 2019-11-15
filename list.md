@@ -384,3 +384,6 @@ David Zellhöfer (SBB Berlin)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
+
+Martin Malmsten (National Library of Sweden)
+[https://github.com/marma/](https://github.com/marma/)
