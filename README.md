@@ -11,8 +11,7 @@ on the US.
 
 This is a collaborative project. Additions and suggestions are very welcome.
 Feel free to submit a Pull Request. If you have any questions or suggestions,
-please file an [Issue](https://github.com/hbunke/BibsOnGitHub/issues). You can
-also send an email to h.bunke@zbw.eu.
+please file an [Issue](https://github.com/hbunke/BibsOnGitHub/issues).
 
 
 Hints
@@ -26,7 +25,7 @@ Hints
     URL must be on a separate line):
         python links.py
 
--   If adding persons please also give their institutional affiliation.
+-   If adding persons please also give their institutional affiliation. Persons are sorted by their name.
 
 
 TODOS
