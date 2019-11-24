@@ -7,7 +7,7 @@ A list of libraries on GitHub based on [hbunke/BibsOnGitHub](https://github.com/
 
 ## Add new entries
 
-* edit [librabries.csv](librabries.csv)
+* edit [libraries.csv](libraries.csv)
 * run [csv-to-json.py](csv-to-json.py) (GitHub Access Token required for more than 60 requests per hour)
 * run [json-to-markdown-table.py](json-to-markdown-table.py) to generate the table
 * DO NOT COMMIT your personal access token!
