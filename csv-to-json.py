@@ -18,7 +18,7 @@ json_result_string ='''
 '''
 for line in lines:
     json_result_string += "    {\n"
-    parts = line.split(";")
+    parts = line.split(",")
     country = parts[0]
     city = parts[1]
     name = parts[2]
