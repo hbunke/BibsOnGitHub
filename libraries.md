@@ -11,7 +11,7 @@
 |Austria|Wien|[Austrian National Library - Department Research and Development](https://github.com/ONB-RD)|13|
 |Austria|Wien|[Universitätsbibliothek der Technischen Universität Wien](https://github.com/UBTUW)|4|
 |Belgium|Ghent|[Ghent University Library](https://github.com/Universiteitsbibliotheek)|9|
-|Canada|Burnaby|[Simon Fraser University Library](https://github.com/SFULibrary)|8|
+|Canada|Burnaby (BC)|[Simon Fraser University Library](https://github.com/SFULibrary)|8|
 |Canada|Edmonton (AB)|[Edmonton Public Library](https://github.com/EPLibrary)|10|
 |Canada|Edmonton (AB)|[Edmonton Public Library](https://github.com/Edmonton-Public-Library)|34|
 |Canada|Edmonton (AB)|[MacEwan University Library](https://github.com/macewanulib)|1|
@@ -19,23 +19,23 @@
 |Canada|Fredericton (NB)|[University of New Brunswick Libraries](https://github.com/unb-libraries)|100|
 |Canada|Guelph (ON)|[An Interdisciplinary Digital Humanities Lab in the McLaughlin Library at the University of Guelph](https://github.com/THINCLabGuelph)|3|
 |Canada|Guelph (ON)|[University of Guelph Library](https://github.com/lib-uoguelph-ca)|37|
-|Canada|Hamiilton|[Sherman Centre for Digital Scholarship at McMaster University](https://github.com/scds)|19|
-|Canada|Montreal|[Digital Initiatives at McGill University Library](https://github.com/mcglib)|2|
-|Canada|Kingston|[Queens' University Library](https://github.com/qulib)|20|
+|Canada|Hamiilton (ON)|[Sherman Centre for Digital Scholarship at McMaster University](https://github.com/scds)|19|
+|Canada|Montreal (QC)|[Digital Initiatives at McGill University Library](https://github.com/mcglib)|2|
+|Canada|Kingston (ON)|[Queens' University Library](https://github.com/qulib)|20|
 |Canada|Markham (ON)|[Markham Public Library](https://github.com/markhampubliclibrary)|0|
 |Canada|Niagara Falls (ON)|[Niagara Falls Public Library](https://github.com/NiagaraFallsPublicLibrary)|3|
-|Canada|Ottawa|[Carleton University Library](https://github.com/cu-library)|39|
-|Canada|Peterborough|[Trent University Library & Archives](https://github.com/batalibrary)|0|
+|Canada|Ottawa (ON)|[Carleton University Library](https://github.com/cu-library)|39|
+|Canada|Peterborough (ON)|[Trent University Library & Archives](https://github.com/batalibrary)|0|
 |Canada|Saskatoon (SK)|[University of Saskatchewan Library](https://github.com/usask-library)|5|
 |Canada|Scarborough (ON)|[The Digital Scholarship Unit at the University of Toronto Scarborough Library](https://github.com/digitalutsc)|41|
 |Canada|St. Catharines (ON)|[Digital Scholarship Lab @ Brock University Library](https://github.com/BrockDSL)|41|
 |Canada|Thunder Bay (ON)|[Lakehead University Library](https://github.com/lu-library)|2|
-|Canada|Toronto|[Toronto Public Library DSET](https://github.com/TorontoPublicLibrary)|1|
-|Canada|Toronto|[Ryerson University Library & Archives](https://github.com/ryersonlibrary)|66|
-|Canada|Toronto|[Scholars Portal - A service of the Ontario Council for University Libraries](https://github.com/scholarsportal)|16|
-|Canada|Toronto|[Toronto Public Library E-Services](https://github.com/tpl-eservices)|5|
-|Canada|Toronto|[University of Toronto Libraries](https://github.com/utlib)|63|
-|Canada|Toronto|[York University Libraries](https://github.com/yorkulibraries)|100|
+|Canada|Toronto (ON)|[Toronto Public Library DSET](https://github.com/TorontoPublicLibrary)|1|
+|Canada|Toronto (ON)|[Ryerson University Library & Archives](https://github.com/ryersonlibrary)|66|
+|Canada|Toronto (ON)|[Scholars Portal - A service of the Ontario Council for University Libraries](https://github.com/scholarsportal)|16|
+|Canada|Toronto (ON)|[Toronto Public Library E-Services](https://github.com/tpl-eservices)|5|
+|Canada|Toronto (ON)|[University of Toronto Libraries](https://github.com/utlib)|63|
+|Canada|Toronto (ON)|[York University Libraries](https://github.com/yorkulibraries)|100|
 |Canada|Vancouver (BC)|[BC Libraries Cooperative](https://github.com/BCLibCoop)|83|
 |Canada|Vancouver (BC)|[The University of British Columbia Library](https://github.com/ubc-library)|29|
 |Canada|Victoria (BC)|[Greater Victoria Public Library](https://github.com/GVPL)|3|
@@ -92,7 +92,7 @@
 |Germany|Paderborn|[Universitätsbibliothek Paderborn](https://github.com/ubpb)|15|
 |Germany|Rostock|[Rostock University Library](https://github.com/ubrostock)|6|
 |Germany|Tübingen|[Universitätsbibliothek Tübingen](https://github.com/ubtue)|20|
-|Germany|Weimar|[Bibliothek der Hochschule für Musik FRANZ LISZT Weimar](https://github.com/HfMWeimar)|2|
+|Germany|Weimar|[Bibliothek der Hochschule für Musik](https://github.com/HfMWeimar)|2|
 |Hongkong|Hongkong|[The Chinese University of Hong Kong Library](https://github.com/cuhk-library-lits)|7|
 |Hongkong|Hongkong|[Hong Kong Polytechnic University Library](https://github.com/PolyU-Library)|0|
 |Hungary|Kaposvar|[University Library](https://github.com/KE-LIB)|8|
@@ -105,44 +105,44 @@
 |Italy|San Domenico di Fiesole|[European University Institute Library](https://github.com/EUI-Library)|0|
 |Lithuania|Vilnius|[Vilnius University Library](https://github.com/vulibrary)|0|
 |Luxembourg|Luxembourg|[National Library of Luxembourg](https://github.com/natliblux)|1|
-|Netherlands|Amsterdam|[University Library Vrije Universiteit Amsterdam](https://github.com/ubvu)|4|
-|Netherlands|Amsterdam|[Vrije Universiteit Amsterdam - University Library](https://github.com/VUAmsterdam-UniversityLibrary)|3|
+|Netherlands|Amsterdam|[Amsterdam University Library](https://github.com/ubvu)|4|
+|Netherlands|Amsterdam|[Amsterdam University Library](https://github.com/VUAmsterdam-UniversityLibrary)|3|
 |Netherlands|Den Haag|[National Library of the Netherlands / Research](https://github.com/KBNLresearch)|81|
 |Netherlands|Leiden|[Leiden University Library](https://github.com/LeidenUniversityLibrary)|60|
 |Netherlands|Rotterdam|[Erasmus University Library](https://github.com/erasmus-university-library)|1|
 |New Zealand|Auckland|[The University of Auckland Library](https://github.com/aucklanduni-library)|4|
 |New Zealand|Lincoln|[Lincoln University Library Teaching and Learning](https://github.com/LincolnUniLTL)|2|
 |Norway|Bergen|[University of Bergen Library](https://github.com/ubbdst)|57|
-|Norway|Mo i Rana|[Norsk nettarkiv (National Library of Norway - Web Archive)](https://github.com/nlnwa)|70|
+|Norway|Mo i Rana|[National Library of Norway - Web Archive](https://github.com/nlnwa)|70|
 |Norway|Oslo|[Digital Development Team at Oslo Public Library](https://github.com/digibib)|79|
 |Norway|Oslo|[University of Oslo Library Scriptoteket](https://github.com/scriptotek)|91|
 |Norway|Oslo|[University of Oslo Library](https://github.com/uio-library)|12|
-|Norway|Oslo / Bergen / Stavanger / Trondheim|[BI Norwegian Business School Library (Norway)](https://github.com/bisentralen)|4|
+|Norway|Oslo / Bergen / Stavanger / Trondheim|[Norwegian Business School Library](https://github.com/bisentralen)|4|
 |Norway|Tromsø|[Library at University of Tromsø](https://github.com/UiT-UB)|5|
 |Norway|Trondheim|[NTNU University Library](https://github.com/NTNUUB)|1|
 |Poland|Warszawa|[The National Library of Poland](https://github.com/the-national-library-of-poland)|0|
 |Russian Federation|Kachkanar|[Kachkanar Public Library](https://github.com/gorbib)|7|
 |Russian Federation|Izhevsk|[National Library of the Udmurt Republic](https://github.com/unatlib)|2|
 |Russian Federation|Kazan|[Kazan Federal University Academic Library](https://github.com/KFULibrary)|1|
-|Sweden|Falun|[The hospital library of Dalarna county's public repository](https://github.com/ldbib)|12|
+|Sweden|Falun|[The hospital library of Dalarna county](https://github.com/ldbib)|12|
 |Sweden|Göteborg|[Chalmers University of Technology Library](https://github.com/ChalmersLibrary)|13|
 |Sweden|Jönköping|[Jönköping University Library](https://github.com/JonkopingUniversityLibrary)|5|
 |Sweden|Stockholm|[National Library of Sweden 1](https://github.com/Kungbib)|19|
 |Sweden|Stockholm|[National Library of Sweden 2](https://github.com/Libris)|30|
 |Sweden|Stockholm|[Stockholm University Library](https://github.com/StockholmUniversityLibrary)|1|
-|Switzerland|Basel|[swissbib (Swiss Library Catalogue)](https://github.com/swissbib)|31|
-|Switzerland|Basel|[project linked-swissbib](https://github.com/linked-swissbib)|22|
+|Switzerland|Basel|[Swiss Library Catalogue (swissbib)](https://github.com/swissbib)|31|
+|Switzerland|Basel|[Swiss Library Catalogue (swissbib info)](https://github.com/linked-swissbib)|22|
 |Switzerland|Bern|[Bern University Library](https://github.com/UB-Bern)|2|
 |Switzerland|Bern|[University Library - University of Bern](https://github.com/ub-unibe-ch)|1|
 |Switzerland|Lausanne|[Medical Library of Lausanne University Hospital](https://github.com/bium)|1|
 |Taiwan|Taipei|[National Yang-Ming University Library](https://github.com/YMLIB)|3|
 |Taiwan|Minhsiung Township|[National Chung Cheng University Library](https://github.com/CCULibrary)|1|
-|UK|Aberystwyth|[Llyfrgell Genedlaethol Cymru - The National Library of Wales](https://github.com/LlGC-NLW)|9|
+|UK|Aberystwyth|[National Library of Wales](https://github.com/LlGC-NLW)|9|
 |UK|Cambridge|[Cambridge University Library](https://github.com/CamLib)|16|
 |UK|Edinburgh|[University of Edinburgh Library and University Collections Development Team](https://github.com/UoEMainLibrary)|32|
 |UK|Edinburgh|[National Library of Scotland Maps](https://github.com/NationalLibraryOfScotland)|14|
 |UK|Lancaster|[Lancaster University Library](https://github.com/lulibrary)|40|
-|UK|London|[The British Library](https://github.com/britishlibrary)|27|
+|UK|London|[British Library](https://github.com/britishlibrary)|27|
 |UK|London|[British Library Labs Project](https://github.com/BL-Labs)|24|
 |UK|London|[Wellcome Library](https://github.com/wellcomelibrary)|0|
 |UK|Manchester|[University of Manchester Library](https://github.com/UoMLibrary)|5|
@@ -182,7 +182,7 @@
 |US|Chattanooga (TN)|[University of Tennessee at Chattanooga Library](https://github.com/utclibrary)|14|
 |US|Charlottesville (VA)|[Data Services at the Health Sciences Library at the University of Virginia](https://github.com/HSL-Data)|4|
 |US|Chesterton (IN)|[Westchester Public Library](https://github.com/WestchesterPublicLibrary)|10|
-|US|Cincinnati (OH)|[The Public Library of Cincinnati and Hamilton County](https://github.com/plch)|9|
+|US|Cincinnati (OH)|[Public Library of Cincinnati and Hamilton County](https://github.com/plch)|9|
 |US|College Park (MD)|[University of Maryland Libraries](https://github.com/umd-lib)|100|
 |US|Columbia (MO)|[University of Missouri Library Technology Services](https://github.com/umlts)|21|
 |US|Columbia (MO)|[University of Missouri Library Technology Services Labs](https://github.com/umlts-labs)|7|
@@ -190,7 +190,7 @@
 |US|Columbus (OH)|[Ohio State University Libraries](https://github.com/osulibraries)|34|
 |US|Conway (NH)|[Conway Public Library](https://github.com/conwaypubliclibrary)|3|
 |US|Corvallis (OR)|[Oregon State University Libraries & Press](https://github.com/osulp)|91|
-|US|Darien (CT)|[Darien (CT) Library](https://github.com/DarienLibrary)|13|
+|US|Darien (CT)|[Darien Library](https://github.com/DarienLibrary)|13|
 |US|Davis (CA)|[UC Davis Library Public Applications](https://github.com/ucd-library)|26|
 |US|Denton (TX)|[University of North Texas Libraries](https://github.com/unt-libraries)|43|
 |US|Denver (CO)|[University of Denver Library Technology Services](https://github.com/dulibrarytech)|19|
@@ -225,15 +225,15 @@
 |US|New Lonnox (IL)|[New Lenox Public Library](https://github.com/newlenoxlibrary)|0|
 |US|New Orleans (LA)|[Tulane Howard-Tilton Memorial Library](https://github.com/Howard-Tilton-Library)|10|
 |US|New York (NY)|[Columbia University Libraries](https://github.com/cul)|100|
-|US|New York (NY)|[The New York Public Library](https://github.com/nypl)|100|
-|US|New York (NY)|[The New York Public Library - Open Audio Weekend](https://github.com/nypl-openaudio)|18|
-|US|New York (NY)|[The New York Public Library - Public Domain](https://github.com/NYPL-publicdomain)|8|
-|US|New York (NY)|[The New York Public Library - NYC Space/Time Directory](https://github.com/nypl-spacetime)|100|
-|US|New York (NY)|[NYU Libraries](https://github.com/NYULibraries)|100|
+|US|New York (NY)|[New York Public Library](https://github.com/nypl)|100|
+|US|New York (NY)|[New York Public Library - Open Audio Weekend](https://github.com/nypl-openaudio)|18|
+|US|New York (NY)|[New York Public Library - Public Domain](https://github.com/NYPL-publicdomain)|8|
+|US|New York (NY)|[New York Public Library - NYC Space/Time Directory](https://github.com/nypl-spacetime)|100|
+|US|New York (NY)|[New York University Libraries](https://github.com/NYULibraries)|100|
 |US|Newport Beach (CA)|[Newport Beach Public Library](https://github.com/NBPLwebsite)|0|
 |US|Norfolk (VA)|[Web Science and Digital Libraries Research Group at Old Dominion University](https://github.com/oduwsdl)|48|
 |US|Northbrook (IL)|[Northbrook Public Library](https://github.com/northbrooklibrary)|8|
-|US|Northampton (MA)|[The public library for Northampton](https://github.com/forbeslibrary)|17|
+|US|Northampton (MA)|[Public Library for Northampton](https://github.com/forbeslibrary)|17|
 |US|Notre Dame (IN)|[University of Notre Dame Hesburgh Libraries](https://github.com/ndlib)|100|
 |US|Notre Dame (IN)|[University of Notre Dame Hesburgh Libraries - the CORAL stuff](https://github.com/ndlibersa)|11|
 |US|O'Fallon|[O'Fallon Public Library](https://github.com/OFallonPublicLibrary)|1|
@@ -272,13 +272,13 @@
 |US|Stanford (CA)|[Stanford University Digital Library](https://github.com/sul-dlss)|100|
 |US|Stanford (CA)|[Stanford University Libraries - Carpentries](https://github.com/StanfordLibraries-Carpentries)|1|
 |US|Stanford (CA)|[Center for Interdisciplinary Digital Research at Stanford University Libraries](https://github.com/sul-cidr)|32|
-|US|Stanford (CA)|[The LOCKSS Program at Stanford University Libraries](https://github.com/lockss)|63|
+|US|Stanford (CA)|[LOCKSS Program at Stanford University Libraries](https://github.com/lockss)|63|
 |US|Starkville (MS)|[Mississippi State University Libraries - Digital Initiatives & Web Services](https://github.com/MSULibraries)|10|
 |US|Tampa (FL)|[University of South Florida Libraries](https://github.com/usflibraries)|4|
 |US|Tempe (AZ)|[Unit for Data Science at Hayden Library at Arizona State University](https://github.com/UnitForDataScience)|19|
 |US|Tinley Park (IL)|[Tinley Park Public Library](https://github.com/TinleyParkPublicLibrary)|1|
 |US|Trenton (NJ)|[New Jersey State Library](https://github.com/njstatelibrary)|9|
-|US|Tucson (AZ)|[The University of Arizona Libraries](https://github.com/ualibraries)|61|
+|US|Tucson (AZ)|[University of Arizona Libraries](https://github.com/ualibraries)|61|
 |US|Tuscaloosa (AL)|[Acumen - A digital archives explorer for University of Alabama Libraries' Special Collections](https://github.com/AcumenProject)|10|
 |US|University Park (PA)|[Penn State Digital Stewardship](https://github.com/psu-stewardship)|64|
 |US|University Park (PA)|[Penn State University Libraries](https://github.com/psu-libraries)|21|
