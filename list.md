@@ -292,7 +292,7 @@ Martin Malmsten (National Library of Sweden)
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
 
-David Maus (HAB Wolfenbüttel)
+David Maus (SUB Hamburg)
 [https://github.com/dmj](https://github.com/dmj)
 
 Sebastian Meyer (SLUB)
