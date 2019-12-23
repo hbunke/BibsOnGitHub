@@ -229,11 +229,14 @@ Ralf Eichinger (MDZ)
 Christian Erlinger
 [https://github.com/LibrErli](https://github.com/LibrErli)
 
+Fabian Fürste (TU Berlin)
+[https://github.com/johlton](https://github.com/johlton)
+
 Henning Gerhardt (SLUB)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
-Fabian Fürste (TU Berlin)
-[https://github.com/johlton](https://github.com/johlton)
+Steffi Grimm (Charité)
+[https://github.com/estfee](https://github.com/estfee)
 
 André Hagenbruch (UB Bochum)
 [https://github.com/ahagenbruch](https://github.com/ahagenbruch)
