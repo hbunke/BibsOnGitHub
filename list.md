@@ -177,6 +177,9 @@ National Library of Sweden
 [https://github.com/Kungbib/](https://github.com/Kungbib/)
 [https://github.com/Libris/](https://github.com/Libris/)
 
+Universitätsbibliothek der LMU München
+[https://github.com/ub-lmu](https://github.com/ub-lmu)
+
 
 Developers, Librarians
 ----------------------
