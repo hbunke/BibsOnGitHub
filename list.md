@@ -180,6 +180,9 @@ National Library of Sweden
 Universitätsbibliothek der LMU München
 [https://github.com/ub-lmu](https://github.com/ub-lmu)
 
+Medizinische Bibliothek der Charité – Universitätsmedizin Berlin
+[https://github.com/medbib-charite](https://github.com/medbib-charite)
+
 
 Developers, Librarians
 ----------------------
