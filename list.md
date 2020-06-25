@@ -189,6 +189,9 @@ Austrian National Library - Department Research and Development
 Universitäts- und Landesbibliothek Sachsen-Anhalt
 [https://github.com/ulb-sachsen-anhalt](https://github.com/ulb-sachsen-anhalt)
 
+JabRef
+<https://github.com/jabref/jabref/>
+
 Developers, Librarians
 ----------------------
 
