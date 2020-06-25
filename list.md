@@ -186,6 +186,9 @@ Medizinische Bibliothek der Charité – Universitätsmedizin Berlin
 Austrian National Library - Department Research and Development
 [https://github.com/ONB-RD](https://github.com/ONB-RD)
 
+Universitäts- und Landesbibliothek Sachsen-Anhalt
+[https://github.com/ulb-sachsen-anhalt](https://github.com/ulb-sachsen-anhalt)
+
 Developers, Librarians
 ----------------------
 
