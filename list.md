@@ -189,8 +189,8 @@ Austrian National Library - Department Research and Development
 Universitäts- und Landesbibliothek Sachsen-Anhalt
 [https://github.com/ulb-sachsen-anhalt](https://github.com/ulb-sachsen-anhalt)
 
-swissbib
-[https://github.com/swissbib](https://github.com/swissbib)
+EPrints User Group
+[https://github.com/eprintsug](https://github.com/eprintsug)
 
 Universitätsbibliothek Basel
 [https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
@@ -224,6 +224,9 @@ Christoph Broschinski (UB Bielefeld)
 
 Andreas Bohne-Lang (Library of Medical Faculty Mannheim)
 [https://github.com/bohnelang](https://github.com/bohnelang)
+
+Martin Brändle (Universität Zürich, HBZ/Zentrale Informatik)
+[https://github.com/mpbraendle](https://github.com/mpbraendle)
 
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
@@ -404,6 +407,9 @@ Nils Witt (ZBW)
 
 Torsten Witt (SUBHH)
 [https://github.com/percolatorWitt](https://github.com/percolatorWitt)
+
+Jens Witzel (Universität Zürich, Zentrale Informatik)
+[https://github.com/jenswitzel](https://github.com/jenswitzel)
 
 Kay-Michael Würzner (BBAW)
 [https://github.com/wrznr](https://github.com/wrznr)
