@@ -189,6 +189,12 @@ Austrian National Library - Department Research and Development
 Universitäts- und Landesbibliothek Sachsen-Anhalt
 [https://github.com/ulb-sachsen-anhalt](https://github.com/ulb-sachsen-anhalt)
 
+swissbib
+[https://github.com/swissbib](https://github.com/swissbib)
+
+Universitätsbibliothek Basel
+[https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
+
 Developers, Librarians
 ----------------------
 
@@ -305,6 +311,9 @@ Martin Malmsten (National Library of Sweden)
 
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
+
+Beat Mattmann (Universitätsbibliothek Basel)
+[https://github.com/bemattmann](https://github.com/bemattmann)
 
 David Maus (SUB Hamburg)
 [https://github.com/dmj](https://github.com/dmj)
