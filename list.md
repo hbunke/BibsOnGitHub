@@ -192,6 +192,9 @@ Universitäts- und Landesbibliothek Sachsen-Anhalt
 EPrints User Group
 [https://github.com/eprintsug](https://github.com/eprintsug)
 
+Universitätsbibliothek Basel
+[https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
+
 Developers, Librarians
 ----------------------
 
@@ -311,6 +314,9 @@ Martin Malmsten (National Library of Sweden)
 
 Henning Manske
 [https://github.com/hma](https://github.com/hma)
+
+Beat Mattmann (Universitätsbibliothek Basel)
+[https://github.com/bemattmann](https://github.com/bemattmann)
 
 David Maus (SUB Hamburg)
 [https://github.com/dmj](https://github.com/dmj)
