@@ -195,6 +195,9 @@ EPrints User Group
 Universitätsbibliothek Basel
 [https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
 
+Universitäts- und Landesbibliothek Münster
+[https://github.com/ulbmuenster](https://github.com/ulbmuenster)
+
 Developers, Librarians
 ----------------------
 
