@@ -195,6 +195,9 @@ EPrints User Group
 Universitätsbibliothek Basel
 [https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
 
+Universitäts- und Landesbibliothek Münster
+[https://github.com/ulbmuenster](https://github.com/ulbmuenster)
+
 Developers, Librarians
 ----------------------
 
@@ -419,3 +422,6 @@ David Zellhöfer (SBB Berlin)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
+
+Diego Siqueira (ULB Münster)
+[https://github.com/diegosiqueir4](https://github.com/diegosiqueir4)
