@@ -422,3 +422,6 @@ David Zellhöfer (SBB Berlin)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
+
+Diego Siqueira (ULB Münster)
+[https://github.com/diegosiqueir4](https://github.com/diegosiqueir4)
