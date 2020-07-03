@@ -375,6 +375,9 @@ Jan Schnasse (hbz)
 Michael Sievers (UB Paderborn)
 [https://github.com/msievers](https://github.com/msievers)
 
+Diego Siqueira (ULB Münster)
+[https://github.com/diegosiqueir4](https://github.com/diegosiqueir4)
+
 René Sprotte (UB Paderborn)
 [https://github.com/renspr](https://github.com/renspr)
 
@@ -422,6 +425,3 @@ David Zellhöfer (SBB Berlin)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
-
-Diego Siqueira (ULB Münster)
-[https://github.com/diegosiqueir4](https://github.com/diegosiqueir4)
