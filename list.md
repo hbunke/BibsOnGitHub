@@ -1,261 +1,430 @@
-# Libraries, library software developers, and librarians on GitHub
+Libraries, library software developers, and librarians on GitHub
+=================================================================
 
-Now open for any Europe based library, library software developers, or librarians.
+Now open for any Europe based library, library software developers, or
+librarians.
 
-## Library institutions, journals, and projects
+Library institutions, journals, and projects
+---------------------------------------------
 
-Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen, SUBUGOE) <https://github.com/subugoe>
+Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen, SUBUGOE)
+[https://github.com/subugoe](https://github.com/subugoe)
 
-Gemeinsamer Bibliotheksverbund (GBV Göttingen) <https://github.com/gbv>
+Gemeinsamer Bibliotheksverbund (GBV Göttingen)
+[https://github.com/gbv](https://github.com/gbv)
 
-Gemeinsamer Verbünde Index (GVI) <https://github.com/gemeinsamerverbuendeindex>
+Gemeinsamer Verbünde Index (GVI)
+[https://github.com/gemeinsamerverbuendeindex](https://github.com/gemeinsamerverbuendeindex)
 
-Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz Köln) <https://github.com/hbz>
+Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz Köln)
+[https://github.com/hbz](https://github.com/hbz)
 
-Deutsche Digitale Bibliothek <https://github.com/Deutsche-Digitale-Bibliothek>
+Deutsche Digitale Bibliothek
+[https://github.com/Deutsche-Digitale-Bibliothek](https://github.com/Deutsche-Digitale-Bibliothek)
 
-The British Library <https://github.com/britishlibrary>
+The British Library
+[https://github.com/britishlibrary](https://github.com/britishlibrary)
 
-British Library Labs Project <https://github.com/BL-Labs>
+British Library Labs Project
+[https://github.com/BL-Labs](https://github.com/BL-Labs)
 
-Bibliothek der Hochschule für Musik FRANZ LISZT Weimar <https://github.com/HfMWeimar>
+Bibliothek der Hochschule für Musik FRANZ LISZT Weimar
+[https://github.com/HfMWeimar](https://github.com/HfMWeimar)
 
-Bibliothek der Universität Duisburg-Essen <https://github.com/unibib-duisburg-essen>
+Bibliothek der Universität Duisburg-Essen
+[https://github.com/unibib-duisburg-essen](https://github.com/unibib-duisburg-essen)
 
-Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz) <https://github.com/BSZBW>
+Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz)
+[https://github.com/BSZBW](https://github.com/BSZBW)
 
-Bibliothek der Hochschule Hannover <https://github.com/HsH-Bibliothek> <https://github.com/hsh-bib>
+Bibliothek der Hochschule Hannover
+[https://github.com/HsH-Bibliothek](https://github.com/HsH-Bibliothek)
+[https://github.com/hsh-bib](https://github.com/hsh-bib)
 
-SLUB Saxon State and University Library Dresden <https://github.com/slub>
+SLUB Saxon State and University Library Dresden
+[https://github.com/slub](https://github.com/slub)
 
-University Library of Humboldt-Universität zu Berlin <https://github.com/UB-HU-Berlin>
+University Library of Humboldt-Universität zu Berlin
+[https://github.com/UB-HU-Berlin](https://github.com/UB-HU-Berlin)
 
-Libreas <https://github.com/libreas>
+Libreas
+[https://github.com/libreas](https://github.com/libreas)
 
-MPI Collective Goods Library Bonn <https://github.com/bibliocoll>
+MPI Collective Goods Library Bonn
+[https://github.com/bibliocoll](https://github.com/bibliocoll)
 
-Universitätsbibliothek Mannheim <https://github.com/UB-Mannheim>
+Universitätsbibliothek Mannheim
+[https://github.com/UB-Mannheim](https://github.com/UB-Mannheim)
 
-Universitätsbibliothek Leipzig <https://github.com/ubleipzig>
+Universitätsbibliothek Leipzig
+[https://github.com/ubleipzig](https://github.com/ubleipzig)
 
-Universitätsbibliothek Technische Universität Berlin <https://github.com/tuub>
+Universitätsbibliothek Technische Universität Berlin
+[https://github.com/tuub](https://github.com/tuub)
 
-Zeitschriftendatenbank (ZDB) <https://github.com/Zeitschriftendatenbank>
+Zeitschriftendatenbank (ZDB)
+[https://github.com/Zeitschriftendatenbank](https://github.com/Zeitschriftendatenbank)
 
-DINI AG KIM <https://github.com/dini-ag-kim>
+DINI AG KIM
+[https://github.com/dini-ag-kim](https://github.com/dini-ag-kim)
 
-swissbib (Swiss Library Catalogue) <https://github.com/swissbib>
+swissbib (Swiss Library Catalogue)
+[https://github.com/swissbib](https://github.com/swissbib)
 
-project linked-swissbib <https://github.com/linked-swissbib>
+project linked-swissbib
+[https://github.com/linked-swissbib](https://github.com/linked-swissbib)
 
-Universitätsbibliothek Paderborn <https://github.com/ubpb>
+Universitätsbibliothek Paderborn
+[https://github.com/ubpb](https://github.com/ubpb)
 
-BVB-KOBV-ALLIANZ <https://github.com/bvb-kobv-allianz>
+BVB-KOBV-ALLIANZ
+[https://github.com/bvb-kobv-allianz](https://github.com/bvb-kobv-allianz)
 
-Universitätsbibliothek Tübingen <https://github.com/ubtue>
+Universitätsbibliothek Tübingen
+[https://github.com/ubtue](https://github.com/ubtue)
 
-University Library Heidelberg <https://github.com/UB-Heidelberg>
+University Library Heidelberg
+[https://github.com/UB-Heidelberg](https://github.com/UB-Heidelberg)
 
-Universitätsbibliothek Dortmund <https://github.com/UB-Dortmund>
+Universitätsbibliothek Dortmund
+[https://github.com/UB-Dortmund](https://github.com/UB-Dortmund)
 
-University Library Bochum <https://github.com/ubbochum>
+University Library Bochum
+[https://github.com/ubbochum](https://github.com/ubbochum)
 
-Deutsche Zentralbibliothek für Medizin (ZB MED) <https://github.com/zbmed>
+Deutsche Zentralbibliothek für Medizin (ZB MED)
+[https://github.com/zbmed](https://github.com/zbmed)
 
-UB Ilmenau <https://github.com/ubilmenau>
+UB Ilmenau
+[https://github.com/ubilmenau](https://github.com/ubilmenau)
 
-project finc (Cataloguing and Indexing software development at Leipzig University Library) <https://github.com/finc>
+project finc (Cataloguing and Indexing software development at Leipzig University Library)
+[https://github.com/finc](https://github.com/finc)
 
-Max Planck Digital Library - MPDL <https://github.com/MPDL>
+Max Planck Digital Library - MPDL
+[https://github.com/MPDL](https://github.com/MPDL)
 
-Universitätsbibliothek der TU Hamburg <https://github.com/tubhh>
+Universitätsbibliothek der TU Hamburg
+[https://github.com/tubhh](https://github.com/tubhh)
 
-Staats- und Universitätsbibliothek Bremen <https://github.com/suub>
+Staats- und Universitätsbibliothek Bremen
+[https://github.com/suub](https://github.com/suub)
 
-Staatsbibliothek zu Berlin <https://github.com/StaatsbibliothekBerlin>
+Staatsbibliothek zu Berlin
+[https://github.com/StaatsbibliothekBerlin](https://github.com/StaatsbibliothekBerlin)
 
-ZBW - Leibniz Information Centre for Economics <https://github.com/zbw>
+ZBW - Leibniz Information Centre for Economics
+[https://github.com/zbw](https://github.com/zbw)
 
-Münchener DigitalisierungsZentrum (MDZ) <https://github.com/dbmdz>
+Münchener DigitalisierungsZentrum (MDZ)
+[https://github.com/dbmdz](https://github.com/dbmdz)
 
-National Library of the Netherlands / Research <https://github.com/KBNLresearch>
+National Library of the Netherlands / Research
+[https://github.com/KBNLresearch](https://github.com/KBNLresearch)
 
-National Library of Finland <https://github.com/NatLibFi>
+National Library of Finland
+[https://github.com/NatLibFi](https://github.com/NatLibFi)
 
-National Library of Luxembourg <https://github.com/natliblux>
+National Library of Luxembourg
+[https://github.com/natliblux](https://github.com/natliblux)
 
-AK Bibliothek Wien für Sozialwissenschaften <https://github.com/AKBibliothekWien>
+AK Bibliothek Wien für Sozialwissenschaften
+[https://github.com/AKBibliothekWien](https://github.com/AKBibliothekWien)
 
-Digital Development Team at Oslo Public Library <https://github.com/digibib>
+Digital Development Team at Oslo Public Library
+[https://github.com/digibib](https://github.com/digibib)
 
-NTNU University Library (Norway) <https://github.com/NTNUUB>
+NTNU University Library (Norway)
+[https://github.com/NTNUUB](https://github.com/NTNUUB)
 
-University of Oslo Library (Norway) <https://github.com/scriptotek>
+University of Oslo Library (Norway)
+[https://github.com/scriptotek](https://github.com/scriptotek)
 
-University of Bergen Library (Norway) <https://github.com/ubbdst>
+University of Bergen Library (Norway)
+[https://github.com/ubbdst](https://github.com/ubbdst)
 
-BI Norwegian Business School Library (Norway) <https://github.com/bisentralen>
+BI Norwegian Business School Library (Norway)
+[https://github.com/bisentralen](https://github.com/bisentralen)
 
-University of Tartu Library <https://github.com/University-of-Tartu-Library>
+University of Tartu Library
+[https://github.com/University-of-Tartu-Library](https://github.com/University-of-Tartu-Library)
 
-Staats- und Universitätsbibliothek Hamburg <https://github.com/subhh>
+Staats- und Universitätsbibliothek Hamburg
+[https://github.com/subhh](https://github.com/subhh)
 
-Bern University Library <https://github.com/UB-Bern>
+Bern University Library
+[https://github.com/UB-Bern](https://github.com/UB-Bern)
 
-Universitätsbibliothek der Technischen Universität Wien <https://github.com/UBTUW>
+Universitätsbibliothek der Technischen Universität Wien
+[https://github.com/UBTUW](https://github.com/UBTUW)
 
-FID Jüdische Studien <https://github.com/FID-Judaica>
+FID Jüdische Studien
+[https://github.com/FID-Judaica](https://github.com/FID-Judaica)
 
-Fachinformationsdienst Darstellende Kunst <https://github.com/FID-Darstellende-Kunst>
+Fachinformationsdienst Darstellende Kunst
+[https://github.com/FID-Darstellende-Kunst](https://github.com/FID-Darstellende-Kunst)
 
-Technische Informationsbibliothek (TIB), Hannover <https://github.com/TIBHannover>
+Technische Informationsbibliothek (TIB), Hannover
+[https://github.com/TIBHannover](https://github.com/TIBHannover)
 
-Zentrale Hochschulbibliothek Lübeck <https://github.com/ZentraleHochschulbibliothekHL>
+Zentrale Hochschulbibliothek Lübeck
+[https://github.com/ZentraleHochschulbibliothekHL](https://github.com/ZentraleHochschulbibliothekHL)
 
-Universitätsbibliothek Bamberg <https://github.com/uniba-ub>
+Universitätsbibliothek Bamberg 
+[https://github.com/uniba-ub](https://github.com/uniba-ub)
 
-National Library of Sweden <https://github.com/Kungbib/> <https://github.com/Libris/>
+National Library of Sweden
+[https://github.com/Kungbib/](https://github.com/Kungbib/)
+[https://github.com/Libris/](https://github.com/Libris/)
 
-## Developers, Librarians
+Universitätsbibliothek der LMU München
+[https://github.com/ub-lmu](https://github.com/ub-lmu)
 
-Konstantin Baierer (UB Heidelberg) <https://github.com/kba>
+Medizinische Bibliothek der Charité – Universitätsmedizin Berlin
+[https://github.com/medbib-charite](https://github.com/medbib-charite)
 
-Johannes Baiter (MDZ) <https://github.com/jbaiter>
+Austrian National Library - Department Research and Development
+[https://github.com/ONB-RD](https://github.com/ONB-RD)
 
-Hans-Georg Becker (UB Dortmund) <https://github.com/hagbeck>
+Universitäts- und Landesbibliothek Sachsen-Anhalt
+[https://github.com/ulb-sachsen-anhalt](https://github.com/ulb-sachsen-anhalt)
 
-Pascal-Nicolas Becker (TU Berlin) <https://github.com/pnbecker>
+EPrints User Group
+[https://github.com/eprintsug](https://github.com/eprintsug)
 
-Daniel Beucke (SUB Göttingen) <https://github.com/dbeucke>
+Universitätsbibliothek Basel
+[https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
 
-Alexander Bigga (SLUB) <https://github.com/albig>
+Universitäts- und Landesbibliothek Münster
+[https://github.com/ulbmuenster](https://github.com/ulbmuenster)
 
-Marcus Bitzl (MDZ) <https://github.com/bitzl>
+Developers, Librarians
+----------------------
 
-Christoph Broschinski (UB Bielefeld) <https://github.com/cbroschinski>
+Konstantin Baierer (UB Heidelberg)
+[https://github.com/kba](https://github.com/kba)
 
-Andreas Bohne-Lang (Library of Medical Faculty Mannheim) <https://github.com/bohnelang>
+Johannes Baiter (MDZ)
+[https://github.com/jbaiter](https://github.com/jbaiter)
 
-Hendrik Bunke (ZBW) <https://github.com/hbunke>
+Hans-Georg Becker (UB Dortmund)
+[https://github.com/hagbeck](https://github.com/hagbeck)
 
-Pascal Christoph (hbz) <https://github.com/dr0i>
+Pascal-Nicolas Becker (TU Berlin)
+[https://github.com/pnbecker](https://github.com/pnbecker)
 
-Ralf Claussnitzer (SLUB) <https://github.com/claussni>
+Daniel Beucke (SUB Göttingen)
+[https://github.com/dbeucke](https://github.com/dbeucke)
 
-Martin Czygan (UB Leipzig) <https://github.com/miku>
+Alexander Bigga (SLUB)
+[https://github.com/albig](https://github.com/albig)
 
-Paul Dodd (UB Bern) <https://github.com/pscdodd>
+Marcus Bitzl (MDZ)
+[https://github.com/bitzl](https://github.com/bitzl)
 
-Ralf Eichinger (MDZ) <https://github.com/datazuul>
+Christoph Broschinski (UB Bielefeld)
+[https://github.com/cbroschinski](https://github.com/cbroschinski)
 
-Christian Erlinger <https://github.com/LibrErli>
+Andreas Bohne-Lang (Library of Medical Faculty Mannheim)
+[https://github.com/bohnelang](https://github.com/bohnelang)
 
-Henning Gerhardt (SLUB) <https://github.com/henning-gerhardt>
+Martin Brändle (Universität Zürich, HBZ/Zentrale Informatik)
+[https://github.com/mpbraendle](https://github.com/mpbraendle)
 
-Fabian Fürste (TU Berlin) <https://github.com/johlton>
+Hendrik Bunke (ZBW)
+[https://github.com/hbunke](https://github.com/hbunke)
 
-André Hagenbruch (UB Bochum) <https://github.com/ahagenbruch>
+Pascal Christoph (hbz)
+[https://github.com/dr0i](https://github.com/dr0i)
 
-Christian Hauschke <https://github.com/hauschke>
+Ralf Claussnitzer (SLUB)
+[https://github.com/claussni](https://github.com/claussni)
 
-Lambert Heller <https://github.com/lambo>
+Martin Czygan (UB Leipzig)
+[https://github.com/miku](https://github.com/miku)
 
-Felix Hemme <https://github.com/hemmefelix>
+Paul Dodd (UB Bern)
+[https://github.com/pscdodd](https://github.com/pscdodd)
 
-Elisa Herrmann (HAB Wolfenbüttel) <https://github.com/ehrmn>
+Ralf Eichinger (MDZ)
+[https://github.com/datazuul](https://github.com/datazuul)
 
-Moritz Horn <https://github.com/hornmo>
+Christian Erlinger
+[https://github.com/LibrErli](https://github.com/LibrErli)
 
-Najko Jahn (UB Bielefeld) <https://github.com/njahn82>
+Fabian Fürste (TU Berlin)
+[https://github.com/johlton](https://github.com/johlton)
 
-Nobutake Kamiya (Universität Zürich, Bibliothek des Asien-Orient-Instituts) <https://github.com/NbtKmy>
+Henning Gerhardt (SLUB)
+[https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
-Jan Kamlah (UB Mannheim) <https://github.com/JKamlah>
+Steffi Grimm (Charité)
+[https://github.com/estfee](https://github.com/estfee)
 
-Timotheus Chang-whae Kim (UB Tübingen) <https://github.com/socheres>
+André Hagenbruch (UB Bochum)
+[https://github.com/ahagenbruch](https://github.com/ahagenbruch)
 
-Till Kinstler (Verbundzentrale des GBV) <https://github.com/tillk>
+Christian Hauschke
+[https://github.com/hauschke](https://github.com/hauschke)
 
-Carsten Klee (ZDB) <https://github.com/cKlee>
+Lambert Heller
+[https://github.com/lambo](https://github.com/lambo)
 
-Axel Klinger (TIB) <https://github.com/axel-klinger>
+Felix Hemme
+[https://github.com/hemmefelix](https://github.com/hemmefelix)
 
-Christian Kurrat (ZB MED) <https://github.com/ckurrat>
+Elisa Herrmann (HAB Wolfenbüttel)
+[https://github.com/ehrmn](https://github.com/ehrmn)
 
-Matthias Lindinger (MDZ) <https://github.com/morpheus-87>
+Moritz Horn
+[https://github.com/hornmo](https://github.com/hornmo)
 
-Felix Lohmeier <https://github.com/felixlohmeier>
+Najko Jahn (UB Bielefeld)
+[https://github.com/njahn82](https://github.com/njahn82)
 
-Christoph Lorenz (MDZ) <https://github.com/clorenz>
+Nobutake Kamiya (Universität Zürich, Bibliothek des Asien-Orient-Instituts)
+[https://github.com/NbtKmy](https://github.com/NbtKmy)
 
-Jan Frederik Maas (SUB Hamburg) <https://github.com/jfmaas>
+Jan Kamlah (UB Mannheim)
+[https://github.com/JKamlah](https://github.com/JKamlah)
 
-Martin Malmsten (National Library of Sweden) <https://github.com/marma/>
+Timotheus Chang-whae Kim (UB Tübingen)
+[https://github.com/socheres](https://github.com/socheres)
 
-Henning Manske <https://github.com/hma>
+Till Kinstler (Verbundzentrale des GBV)
+[https://github.com/tillk](https://github.com/tillk)
 
-David Maus (HAB Wolfenbüttel) <https://github.com/dmj>
+Carsten Klee (ZDB)
+[https://github.com/cKlee](https://github.com/cKlee)
 
-Sebastian Meyer (SLUB) <https://github.com/sebastian-meyer>
+Axel Klinger (TIB)
+[https://github.com/axel-klinger](https://github.com/axel-klinger)
 
-Jens Mittelbach (SLUB) <https://github.com/jmiba>
+Christian Kurrat (ZB MED)
+[https://github.com/ckurrat](https://github.com/ckurrat)
 
-Joachim Neubert (ZBW) <https://github.com/jneubert>
+Matthias Lindinger (MDZ)
+[https://github.com/morpheus-87](https://github.com/morpheus-87)
 
-Clemens Neudecker (SBB Berlin) <https://github.com/cneud>
+Felix Lohmeier
+[https://github.com/felixlohmeier](https://github.com/felixlohmeier)
 
-Mario Trojan (UB Tübingen) <https://github.com/mtrojan-ub>
+Christoph Lorenz (MDZ)
+[https://github.com/clorenz](https://github.com/clorenz)
 
-Vitali Peil (UB Bielefeld) <https://github.com/vpeil>
+Jan Frederik Maas (SUB Hamburg)
+[https://github.com/jfmaas](https://github.com/jfmaas)
 
-Doris Peter (MDZ) <https://github.com/DorisPeter>
+Martin Malmsten (National Library of Sweden)
+[https://github.com/marma/](https://github.com/marma/)
 
-Sebastian Peters (TIB Hannover) <https://github.com/koelnconcert>
+Henning Manske
+[https://github.com/hma](https://github.com/hma)
 
-Christian Pietsch (UB Bielefeld) <https://github.com/pietsch>
+Beat Mattmann (Universitätsbibliothek Basel)
+[https://github.com/bemattmann](https://github.com/bemattmann)
 
-Adrian Pohl (hbz) <https://github.com/acka47>
+David Maus (SUB Hamburg)
+[https://github.com/dmj](https://github.com/dmj)
 
-Jörg Prante <https://github.com/jprante>
+Sebastian Meyer (SLUB)
+[https://github.com/sebastian-meyer](https://github.com/sebastian-meyer)
 
-Andreas R. (SLUB) <https://github.com/art1pirat>
+Jens Mittelbach (SLUB)
+[https://github.com/jmiba](https://github.com/jmiba)
 
-Uwe Reh (HeBIS) <https://github.com/Hirnfiedler>
+Joachim Neubert (ZBW)
+[https://github.com/jneubert](https://github.com/jneubert)
 
-Johann Rolschewski (ZDB) <https://github.com/jorol>
+Clemens Neudecker (SBB Berlin)
+[https://github.com/cneud](https://github.com/cneud)
 
-Stephan Rosenke (ULB Darmstadt) <https://github.com/rosenke>
+Mario Trojan (UB Tübingen)
+[https://github.com/mtrojan-ub](https://github.com/mtrojan-ub)
 
-Jan Schnasse (hbz) <https://github.com/jschnasse>
+Vitali Peil (UB Bielefeld)
+[https://github.com/vpeil](https://github.com/vpeil)
 
-Michael Sievers (UB Paderborn) <https://github.com/msievers>
+Doris Peter (MDZ)
+[https://github.com/DorisPeter](https://github.com/DorisPeter)
 
-René Sprotte (UB Paderborn) <https://github.com/renspr>
+Sebastian Peters (TIB Hannover)
+[https://github.com/koelnconcert](https://github.com/koelnconcert)
 
-Fabian Steeg (hbz) <https://github.com/fsteeg>
+Christian Pietsch (UB Bielefeld)
+[https://github.com/pietsch](https://github.com/pietsch)
 
-Sascha Szott (formerly at KOBV-Zentrale, now freelancing) <https://github.com/saschaszott>
+Adrian Pohl (hbz)
+[https://github.com/acka47](https://github.com/acka47)
 
-Marco Tullney (TIB/UB Hannover) <https://github.com/tullney>
+Jörg Prante
+[https://github.com/jprante](https://github.com/jprante)
 
-Michaela Voigt (TU Berlin) <https://github.com/michaelavoigt>
+Andreas R. (SLUB)
+[https://github.com/art1pirat](https://github.com/art1pirat)
 
-Jakob Voss (Verbundzentrale des GBV) <https://github.com/nichtich>
+Uwe Reh (HeBIS)
+[https://github.com/Hirnfiedler](https://github.com/Hirnfiedler)
 
-Katharina Wäschle (UB Heidelberg) <https://github.com/kadowa>
+Johann Rolschewski (ZDB)
+[https://github.com/jorol](https://github.com/jorol)
 
-Stefan Weil (UB Mannheim) <https://github.com/stweil>
+Stephan Rosenke (ULB Darmstadt)
+[https://github.com/rosenke](https://github.com/rosenke)
 
-Nils Windisch (SUB Göttingen) <https://github.com/nilswindisch>
+Jan Schnasse (hbz)
+[https://github.com/jschnasse](https://github.com/jschnasse)
 
-Dulip Withanage (UB Heidelberg) <https://github.com/withanage>
+Michael Sievers (UB Paderborn)
+[https://github.com/msievers](https://github.com/msievers)
 
-Nils Witt (ZBW) <https://github.com/n-witt>
+Diego Siqueira (ULB Münster)
+[https://github.com/diegosiqueir4](https://github.com/diegosiqueir4)
 
-Torsten Witt (SUBHH) <https://github.com/percolatorWitt>
+René Sprotte (UB Paderborn)
+[https://github.com/renspr](https://github.com/renspr)
 
-Kay-Michael Würzner (BBAW) <https://github.com/wrznr>
+Fabian Steeg (hbz)
+[https://github.com/fsteeg](https://github.com/fsteeg)
 
-David Zellhöfer (SBB Berlin) <https://github.com/elektrobohemian>
+Sascha Szott (formerly at KOBV-Zentrale, now freelancing)
+[https://github.com/saschaszott](https://github.com/saschaszott)
 
-Philipp Zumstein (UB Mannheim) <https://github.com/zuphilip>
+Marco Tullney (TIB/UB Hannover)
+[https://github.com/tullney](https://github.com/tullney)
+
+Michaela Voigt (TU Berlin)
+[https://github.com/michaelavoigt](https://github.com/michaelavoigt)
+
+Jakob Voss (Verbundzentrale des GBV)
+[https://github.com/nichtich](https://github.com/nichtich)
+
+Katharina Wäschle (UB Heidelberg)
+[https://github.com/kadowa](https://github.com/kadowa)
+
+Stefan Weil (UB Mannheim)
+[https://github.com/stweil](https://github.com/stweil)
+
+Nils Windisch (SUB Göttingen)
+[https://github.com/nilswindisch](https://github.com/nilswindisch)
+
+Dulip Withanage (UB Heidelberg)
+[https://github.com/withanage](https://github.com/withanage)
+
+Nils Witt (ZBW)
+[https://github.com/n-witt](https://github.com/n-witt)
+
+Torsten Witt (SUBHH)
+[https://github.com/percolatorWitt](https://github.com/percolatorWitt)
+
+Jens Witzel (Universität Zürich, Zentrale Informatik)
+[https://github.com/jenswitzel](https://github.com/jenswitzel)
+
+Kay-Michael Würzner (BBAW)
+[https://github.com/wrznr](https://github.com/wrznr)
+
+David Zellhöfer (SBB Berlin)
+[https://github.com/elektrobohemian](https://github.com/elektrobohemian)
+
+Philipp Zumstein (UB Mannheim)
+[https://github.com/zuphilip](https://github.com/zuphilip)
