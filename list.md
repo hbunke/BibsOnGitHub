@@ -198,6 +198,10 @@ Universitätsbibliothek Basel
 Universitäts- und Landesbibliothek Münster
 [https://github.com/ulbmuenster](https://github.com/ulbmuenster)
 
+Informationspraxis
+[https://github.com/Informationspraxis](https://github.com/Informationspraxis)
+
+
 Developers, Librarians
 ----------------------
 
