@@ -201,6 +201,9 @@ Universitäts- und Landesbibliothek Münster
 Informationspraxis
 [https://github.com/Informationspraxis](https://github.com/Informationspraxis)
 
+Universitätsbibliothek der Otto-von-Guericke-Universität Magdeburg
+[https://github.com/ovgu-ubit](https://github.com/ovgu-ubit)
+
 
 Developers, Librarians
 ----------------------
