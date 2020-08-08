@@ -205,7 +205,7 @@ Informationspraxis
 Developers, Librarians
 ----------------------
 
-Konstantin Baierer (UB Heidelberg)
+Konstantin Baierer (SBB Berlin)
 [https://github.com/kba](https://github.com/kba)
 
 Johannes Baiter (MDZ)
@@ -220,7 +220,7 @@ Pascal-Nicolas Becker (TU Berlin)
 Daniel Beucke (SUB Göttingen)
 [https://github.com/dbeucke](https://github.com/dbeucke)
 
-Alexander Bigga (SLUB)
+Alexander Bigga (SLUB Dresden)
 [https://github.com/albig](https://github.com/albig)
 
 Marcus Bitzl (MDZ)
@@ -241,7 +241,7 @@ Hendrik Bunke (ZBW)
 Pascal Christoph (hbz)
 [https://github.com/dr0i](https://github.com/dr0i)
 
-Ralf Claussnitzer (SLUB)
+Ralf Claussnitzer (SLUB Dresden)
 [https://github.com/claussni](https://github.com/claussni)
 
 Martin Czygan (UB Leipzig)
@@ -259,7 +259,7 @@ Christian Erlinger
 Fabian Fürste (TU Berlin)
 [https://github.com/johlton](https://github.com/johlton)
 
-Henning Gerhardt (SLUB)
+Henning Gerhardt (SLUB Dresden)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
 Steffi Grimm (Charité)
@@ -331,10 +331,10 @@ Beat Mattmann (Universitätsbibliothek Basel)
 David Maus (SUB Hamburg)
 [https://github.com/dmj](https://github.com/dmj)
 
-Sebastian Meyer (SLUB)
+Sebastian Meyer (SLUB Dresden)
 [https://github.com/sebastian-meyer](https://github.com/sebastian-meyer)
 
-Jens Mittelbach (SLUB)
+Jens Mittelbach (SLUB Dresden)
 [https://github.com/jmiba](https://github.com/jmiba)
 
 Joachim Neubert (ZBW)
@@ -363,9 +363,6 @@ Adrian Pohl (hbz)
 
 Jörg Prante
 [https://github.com/jprante](https://github.com/jprante)
-
-Andreas R. (SLUB)
-[https://github.com/art1pirat](https://github.com/art1pirat)
 
 Uwe Reh (HeBIS)
 [https://github.com/Hirnfiedler](https://github.com/Hirnfiedler)
@@ -424,7 +421,7 @@ Torsten Witt (SUBHH)
 Jens Witzel (Universität Zürich, Zentrale Informatik)
 [https://github.com/jenswitzel](https://github.com/jenswitzel)
 
-Kay-Michael Würzner (BBAW)
+Kay-Michael Würzner (SLUB Dresden)
 [https://github.com/wrznr](https://github.com/wrznr)
 
 David Zellhöfer (SBB Berlin)
