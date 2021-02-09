@@ -204,6 +204,10 @@ Informationspraxis
 Universitätsbibliothek der Otto-von-Guericke-Universität Magdeburg
 [https://github.com/ovgu-ubit](https://github.com/ovgu-ubit)
 
+Kooperativer Bibliotheksverbund Berlin-Brandenburg (KOBV)
+[https://github.com/opus4](https://github.com/opus4)
+[https://github.com/oa-deepgreen](https://github.com/oa-deepgreen)
+
 
 Developers, Librarians
 ----------------------
