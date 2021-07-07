@@ -208,6 +208,8 @@ Kooperativer Bibliotheksverbund Berlin-Brandenburg (KOBV)
 [https://github.com/opus4](https://github.com/opus4)
 [https://github.com/oa-deepgreen](https://github.com/oa-deepgreen)
 
+ETH Library Lab, Zürich CH
+[https://github.com/eth-library-lab](https://github.com/eth-library-lab)
 
 Developers, Librarians
 ----------------------
