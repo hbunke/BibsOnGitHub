@@ -153,7 +153,7 @@ Staats- und Universitätsbibliothek Hamburg
 [https://github.com/subhh](https://github.com/subhh)
 
 Bern University Library
-[https://github.com/UB-Bern](https://github.com/UB-Bern)
+[https://github.com/ub-unibe-ch](https://github.com/ub-unibe-ch)
 
 Universitätsbibliothek der Technischen Universität Wien
 [https://github.com/UBTUW](https://github.com/UBTUW)
