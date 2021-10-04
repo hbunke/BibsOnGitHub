@@ -211,6 +211,9 @@ Kooperativer Bibliotheksverbund Berlin-Brandenburg (KOBV)
 ETH Library Lab, Zürich CH
 [https://github.com/eth-library-lab](https://github.com/eth-library-lab)
 
+Universitätsbibliothek Regensburg
+[https://github.com/ub-regensburg](https://github.com/ub-regensburg)
+
 Developers, Librarians
 ----------------------
 
