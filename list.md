@@ -7,8 +7,63 @@ librarians.
 Library institutions, journals, and projects
 ---------------------------------------------
 
-Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen, SUBUGOE)
-[https://github.com/subugoe](https://github.com/subugoe)
+AK Bibliothek Wien für Sozialwissenschaften
+[https://github.com/AKBibliothekWien](https://github.com/AKBibliothekWien)
+
+Austrian National Library - Department Research and Development
+[https://github.com/ONB-RD](https://github.com/ONB-RD)
+
+Bern University Library
+[https://github.com/ub-unibe-ch](https://github.com/ub-unibe-ch)
+
+BI Norwegian Business School Library (Norway)
+[https://github.com/bisentralen](https://github.com/bisentralen)
+
+Bibliothek der Hochschule für Musik FRANZ LISZT Weimar
+[https://github.com/HfMWeimar](https://github.com/HfMWeimar)
+
+Bibliothek der Hochschule Hannover
+[https://github.com/HsH-Bibliothek](https://github.com/HsH-Bibliothek)
+[https://github.com/hsh-bib](https://github.com/hsh-bib)
+
+Bibliothek der Universität Duisburg-Essen
+[https://github.com/unibib-duisburg-essen](https://github.com/unibib-duisburg-essen)
+
+Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz)
+[https://github.com/BSZBW](https://github.com/BSZBW)
+
+British Library, The
+[https://github.com/britishlibrary](https://github.com/britishlibrary)
+
+British Library Labs Project
+[https://github.com/BL-Labs](https://github.com/BL-Labs)
+
+BVB-KOBV-ALLIANZ
+[https://github.com/bvb-kobv-allianz](https://github.com/bvb-kobv-allianz)
+
+Deutsche Digitale Bibliothek
+[https://github.com/Deutsche-Digitale-Bibliothek](https://github.com/Deutsche-Digitale-Bibliothek)
+
+Deutsche Zentralbibliothek für Medizin (ZB MED)
+[https://github.com/zbmed](https://github.com/zbmed)
+
+Digital Development Team at Oslo Public Library
+[https://github.com/digibib](https://github.com/digibib)
+
+DINI AG KIM
+[https://github.com/dini-ag-kim](https://github.com/dini-ag-kim)
+
+EPrints User Group
+[https://github.com/eprintsug](https://github.com/eprintsug)
+
+ETH Library Lab, Zürich CH
+[https://github.com/eth-library-lab](https://github.com/eth-library-lab)
+
+Fachinformationsdienst Darstellende Kunst
+[https://github.com/FID-Darstellende-Kunst](https://github.com/FID-Darstellende-Kunst)
+
+Fachinformationsdienst Jüdische Studien
+[https://github.com/FID-Judaica](https://github.com/FID-Judaica)****
 
 Gemeinsamer Bibliotheksverbund (GBV Göttingen)
 [https://github.com/gbv](https://github.com/gbv)
@@ -19,108 +74,27 @@ Gemeinsamer Verbünde Index (GVI)
 Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz Köln)
 [https://github.com/hbz](https://github.com/hbz)
 
-Deutsche Digitale Bibliothek
-[https://github.com/Deutsche-Digitale-Bibliothek](https://github.com/Deutsche-Digitale-Bibliothek)
+Informationspraxis
+[https://github.com/Informationspraxis](https://github.com/Informationspraxis)
 
-The British Library
-[https://github.com/britishlibrary](https://github.com/britishlibrary)
-
-British Library Labs Project
-[https://github.com/BL-Labs](https://github.com/BL-Labs)
-
-Bibliothek der Hochschule für Musik FRANZ LISZT Weimar
-[https://github.com/HfMWeimar](https://github.com/HfMWeimar)
-
-Bibliothek der Universität Duisburg-Essen
-[https://github.com/unibib-duisburg-essen](https://github.com/unibib-duisburg-essen)
-
-Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz)
-[https://github.com/BSZBW](https://github.com/BSZBW)
-
-Bibliothek der Hochschule Hannover
-[https://github.com/HsH-Bibliothek](https://github.com/HsH-Bibliothek)
-[https://github.com/hsh-bib](https://github.com/hsh-bib)
-
-SLUB Saxon State and University Library Dresden
-[https://github.com/slub](https://github.com/slub)
-
-University Library of Humboldt-Universität zu Berlin
-[https://github.com/UB-HU-Berlin](https://github.com/UB-HU-Berlin)
+Kooperativer Bibliotheksverbund Berlin-Brandenburg (KOBV)
+[https://github.com/opus4](https://github.com/opus4)
+[https://github.com/oa-deepgreen](https://github.com/oa-deepgreen)
 
 Libreas
 [https://github.com/libreas](https://github.com/libreas)
 
-MPI Collective Goods Library Bonn
-[https://github.com/bibliocoll](https://github.com/bibliocoll)
-
-Universitätsbibliothek Mannheim
-[https://github.com/UB-Mannheim](https://github.com/UB-Mannheim)
-
-Universitätsbibliothek Leipzig
-[https://github.com/ubleipzig](https://github.com/ubleipzig)
-
-Universitätsbibliothek Technische Universität Berlin
-[https://github.com/tuub](https://github.com/tuub)
-
-Zeitschriftendatenbank (ZDB)
-[https://github.com/Zeitschriftendatenbank](https://github.com/Zeitschriftendatenbank)
-
-DINI AG KIM
-[https://github.com/dini-ag-kim](https://github.com/dini-ag-kim)
-
-swissbib (Swiss Library Catalogue)
-[https://github.com/swissbib](https://github.com/swissbib)
-
-project linked-swissbib
-[https://github.com/linked-swissbib](https://github.com/linked-swissbib)
-
-Universitätsbibliothek Paderborn
-[https://github.com/ubpb](https://github.com/ubpb)
-
-BVB-KOBV-ALLIANZ
-[https://github.com/bvb-kobv-allianz](https://github.com/bvb-kobv-allianz)
-
-Universitätsbibliothek Tübingen
-[https://github.com/ubtue](https://github.com/ubtue)
-
-University Library Heidelberg
-[https://github.com/UB-Heidelberg](https://github.com/UB-Heidelberg)
-
-Universitätsbibliothek Dortmund
-[https://github.com/UB-Dortmund](https://github.com/UB-Dortmund)
-
-University Library Bochum
-[https://github.com/ubbochum](https://github.com/ubbochum)
-
-Deutsche Zentralbibliothek für Medizin (ZB MED)
-[https://github.com/zbmed](https://github.com/zbmed)
-
-UB Ilmenau
-[https://github.com/ubilmenau](https://github.com/ubilmenau)
-
-project finc (Cataloguing and Indexing software development at Leipzig University Library)
-[https://github.com/finc](https://github.com/finc)
-
 Max Planck Digital Library - MPDL
 [https://github.com/MPDL](https://github.com/MPDL)
 
-Universitätsbibliothek der TU Hamburg
-[https://github.com/tubhh](https://github.com/tubhh)
+Medizinische Bibliothek der Charité – Universitätsmedizin Berlin
+[https://github.com/medbib-charite](https://github.com/medbib-charite)
 
-Staats- und Universitätsbibliothek Bremen
-[https://github.com/suub](https://github.com/suub)
-
-Staatsbibliothek zu Berlin
-[https://github.com/StaatsbibliothekBerlin](https://github.com/StaatsbibliothekBerlin)
-
-ZBW - Leibniz Information Centre for Economics
-[https://github.com/zbw](https://github.com/zbw)
+MPI Collective Goods Library Bonn
+[https://github.com/bibliocoll](https://github.com/bibliocoll)
 
 Münchener DigitalisierungsZentrum (MDZ)
 [https://github.com/dbmdz](https://github.com/dbmdz)
-
-National Library of the Netherlands / Research
-[https://github.com/KBNLresearch](https://github.com/KBNLresearch)
 
 National Library of Finland
 [https://github.com/NatLibFi](https://github.com/NatLibFi)
@@ -128,91 +102,121 @@ National Library of Finland
 National Library of Luxembourg
 [https://github.com/natliblux](https://github.com/natliblux)
 
-AK Bibliothek Wien für Sozialwissenschaften
-[https://github.com/AKBibliothekWien](https://github.com/AKBibliothekWien)
-
-Digital Development Team at Oslo Public Library
-[https://github.com/digibib](https://github.com/digibib)
-
-NTNU University Library (Norway)
-[https://github.com/NTNUUB](https://github.com/NTNUUB)
-
-University of Oslo Library (Norway)
-[https://github.com/scriptotek](https://github.com/scriptotek)
-
-University of Bergen Library (Norway)
-[https://github.com/ubbdst](https://github.com/ubbdst)
-
-BI Norwegian Business School Library (Norway)
-[https://github.com/bisentralen](https://github.com/bisentralen)
-
-University of Tartu Library
-[https://github.com/University-of-Tartu-Library](https://github.com/University-of-Tartu-Library)
-
-Staats- und Universitätsbibliothek Hamburg
-[https://github.com/subhh](https://github.com/subhh)
-
-Bern University Library
-[https://github.com/ub-unibe-ch](https://github.com/ub-unibe-ch)
-
-Universitätsbibliothek der Technischen Universität Wien
-[https://github.com/UBTUW](https://github.com/UBTUW)
-
-FID Jüdische Studien
-[https://github.com/FID-Judaica](https://github.com/FID-Judaica)
-
-Fachinformationsdienst Darstellende Kunst
-[https://github.com/FID-Darstellende-Kunst](https://github.com/FID-Darstellende-Kunst)
-
-Technische Informationsbibliothek (TIB), Hannover
-[https://github.com/TIBHannover](https://github.com/TIBHannover)
-
-Zentrale Hochschulbibliothek Lübeck
-[https://github.com/ZentraleHochschulbibliothekHL](https://github.com/ZentraleHochschulbibliothekHL)
-
-Universitätsbibliothek Bamberg 
-[https://github.com/uniba-ub](https://github.com/uniba-ub)
-
 National Library of Sweden
 [https://github.com/Kungbib/](https://github.com/Kungbib/)
 [https://github.com/Libris/](https://github.com/Libris/)
 
-Universitätsbibliothek der LMU München
-[https://github.com/ub-lmu](https://github.com/ub-lmu)
+National Library of the Netherlands / Research
+[https://github.com/KBNLresearch](https://github.com/KBNLresearch)
 
-Medizinische Bibliothek der Charité – Universitätsmedizin Berlin
-[https://github.com/medbib-charite](https://github.com/medbib-charite)
+Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen, SUBUGOE)
+[https://github.com/subugoe](https://github.com/subugoe)
 
-Austrian National Library - Department Research and Development
-[https://github.com/ONB-RD](https://github.com/ONB-RD)
+NTNU University Library (Norway)
+[https://github.com/NTNUUB](https://github.com/NTNUUB)
 
-Universitäts- und Landesbibliothek Sachsen-Anhalt
-[https://github.com/ulb-sachsen-anhalt](https://github.com/ulb-sachsen-anhalt)
+project finc (Cataloguing and Indexing software development at Leipzig University Library)
+[https://github.com/finc](https://github.com/finc)
 
-EPrints User Group
-[https://github.com/eprintsug](https://github.com/eprintsug)
+project linked-swissbib
+[https://github.com/linked-swissbib](https://github.com/linked-swissbib)
 
-Universitätsbibliothek Basel
-[https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
+project Open Source Academic Publishing Suite OS-APS (Universitäts- und Landesbibliothek Sachsen-Anhalt, Universitätsbibliothek Erlangen-Nürnberg mit FAU University Press, SciFlow)
+[https://gitlab.com/sciflow/development/-/milestones](https://gitlab.com/sciflow/development/-/milestones)
+
+SLUB Saxon State and University Library Dresden
+[https://github.com/slub](https://github.com/slub)
+
+Staats- und Universitätsbibliothek Bremen
+[https://github.com/suub](https://github.com/suub)
+
+Staats- und Universitätsbibliothek Hamburg
+[https://github.com/subhh](https://github.com/subhh)
+
+Staatsbibliothek zu Berlin
+[https://github.com/StaatsbibliothekBerlin](https://github.com/StaatsbibliothekBerlin)
+
+swissbib (Swiss Library Catalogue)
+[https://github.com/swissbib](https://github.com/swissbib)
+
+Technische Informationsbibliothek (TIB), Hannover
+[https://github.com/TIBHannover](https://github.com/TIBHannover)
 
 Universitäts- und Landesbibliothek Münster
 [https://github.com/ulbmuenster](https://github.com/ulbmuenster)
 
-Informationspraxis
-[https://github.com/Informationspraxis](https://github.com/Informationspraxis)
+Universitäts- und Landesbibliothek Sachsen-Anhalt
+[https://github.com/ulb-sachsen-anhalt](https://github.com/ulb-sachsen-anhalt)
+
+Universitätsbibliothek Bamberg 
+[https://github.com/uniba-ub](https://github.com/uniba-ub)
+
+Universitätsbibliothek Basel
+[https://github.com/UB-UNIBAS](https://github.com/UB-UNIBAS)
+
+Universitätsbibliothek der LMU München
+[https://github.com/ub-lmu](https://github.com/ub-lmu)
 
 Universitätsbibliothek der Otto-von-Guericke-Universität Magdeburg
 [https://github.com/ovgu-ubit](https://github.com/ovgu-ubit)
 
-Kooperativer Bibliotheksverbund Berlin-Brandenburg (KOBV)
-[https://github.com/opus4](https://github.com/opus4)
-[https://github.com/oa-deepgreen](https://github.com/oa-deepgreen)
+Universitätsbibliothek der Technischen Universität Hamburg
+[https://github.com/tubhh](https://github.com/tubhh)
 
-ETH Library Lab, Zürich CH
-[https://github.com/eth-library-lab](https://github.com/eth-library-lab)
+Universitätsbibliothek der Technischen Universität Wien
+[https://github.com/UBTUW](https://github.com/UBTUW)
+
+Universitätsbibliothek Dortmund
+[https://github.com/UB-Dortmund](https://github.com/UB-Dortmund)
+
+Universitätsbibliothek Ilmenau
+[https://github.com/ubilmenau](https://github.com/ubilmenau)
+
+Universitätsbibliothek Leipzig
+[https://github.com/ubleipzig](https://github.com/ubleipzig)
+
+Universitätsbibliothek Mannheim
+[https://github.com/UB-Mannheim](https://github.com/UB-Mannheim)
+
+Universitätsbibliothek Paderborn
+[https://github.com/ubpb](https://github.com/ubpb)
 
 Universitätsbibliothek Regensburg
 [https://github.com/ub-regensburg](https://github.com/ub-regensburg)
+
+Universitätsbibliothek Technische Universität Berlin
+[https://github.com/tuub](https://github.com/tuub)
+
+Universitätsbibliothek Tübingen
+[https://github.com/ubtue](https://github.com/ubtue)
+
+University Library Bochum
+[https://github.com/ubbochum](https://github.com/ubbochum)
+
+University Library Heidelberg
+[https://github.com/UB-Heidelberg](https://github.com/UB-Heidelberg)
+
+University Library of Humboldt-Universität zu Berlin
+[https://github.com/UB-HU-Berlin](https://github.com/UB-HU-Berlin)
+
+University of Bergen Library (Norway)
+[https://github.com/ubbdst](https://github.com/ubbdst)
+
+University of Oslo Library (Norway)
+[https://github.com/scriptotek](https://github.com/scriptotek)
+
+University of Tartu Library
+[https://github.com/University-of-Tartu-Library](https://github.com/University-of-Tartu-Library)
+
+ZBW - Leibniz Information Centre for Economics
+[https://github.com/zbw](https://github.com/zbw)
+
+Zeitschriftendatenbank (ZDB)
+[https://github.com/Zeitschriftendatenbank](https://github.com/Zeitschriftendatenbank)
+
+Zentrale Hochschulbibliothek Lübeck
+[https://github.com/ZentraleHochschulbibliothekHL](https://github.com/ZentraleHochschulbibliothekHL)
+
 
 Developers, Librarians
 ----------------------
@@ -238,14 +242,14 @@ Alexander Bigga (SLUB Dresden)
 Marcus Bitzl (MDZ)
 [https://github.com/bitzl](https://github.com/bitzl)
 
-Christoph Broschinski (UB Bielefeld)
-[https://github.com/cbroschinski](https://github.com/cbroschinski)
-
 Andreas Bohne-Lang (Library of Medical Faculty Mannheim)
 [https://github.com/bohnelang](https://github.com/bohnelang)
 
 Martin Brändle (Universität Zürich, HBZ/Zentrale Informatik)
 [https://github.com/mpbraendle](https://github.com/mpbraendle)
+
+Christoph Broschinski (UB Bielefeld)
+[https://github.com/cbroschinski](https://github.com/cbroschinski)
 
 Hendrik Bunke (ZBW)
 [https://github.com/hbunke](https://github.com/hbunke)
@@ -355,9 +359,6 @@ Joachim Neubert (ZBW)
 Clemens Neudecker (SBB Berlin)
 [https://github.com/cneud](https://github.com/cneud)
 
-Mario Trojan (UB Tübingen)
-[https://github.com/mtrojan-ub](https://github.com/mtrojan-ub)
-
 Vitali Peil (UB Bielefeld)
 [https://github.com/vpeil](https://github.com/vpeil)
 
@@ -402,6 +403,9 @@ Fabian Steeg (hbz)
 
 Sascha Szott (formerly at KOBV-Zentrale, now freelancing)
 [https://github.com/saschaszott](https://github.com/saschaszott)
+
+Mario Trojan (UB Tübingen)
+[https://github.com/mtrojan-ub](https://github.com/mtrojan-ub)
 
 Marco Tullney (TIB/UB Hannover)
 [https://github.com/tullney](https://github.com/tullney)
