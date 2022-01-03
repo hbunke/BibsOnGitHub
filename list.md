@@ -74,6 +74,9 @@ swissbib (Swiss Library Catalogue)
 project linked-swissbib
 [https://github.com/linked-swissbib](https://github.com/linked-swissbib)
 
+project Open Source Academic Publishing Suite (OS-APS) (Universitäts- und Landesbibliothek Sachsen-Anhalt, Universitätsbibliothek Erlangen-Nürnberg, SciFlow)
+[https://gitlab.com/sciflow/development/-/milestones](https://gitlab.com/sciflow/development/-/milestones)
+
 Universitätsbibliothek Paderborn
 [https://github.com/ubpb](https://github.com/ubpb)
 
