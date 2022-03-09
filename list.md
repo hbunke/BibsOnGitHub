@@ -214,6 +214,12 @@ ETH Library Lab, Zürich CH
 Universitätsbibliothek Regensburg
 [https://github.com/ub-regensburg](https://github.com/ub-regensburg)
 
+Universitätsbibliothek Erlangen-Nürnberg
+[https://github.com/UBEN-Webteam](https://github.com/UBEN-Webteam)
+
+project Open Source Academic Publishing Suite (Universitätsbibliothek Erlangen-Nürnberg, Universitäts- und Landesbibliothek Sachsen-Anhalt, SciFlow GmbH)
+[https://gitlab.com/os-aps](https://gitlab.com/os-aps)
+
 Developers, Librarians
 ----------------------
 
