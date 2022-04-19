@@ -1,5 +1,5 @@
-Library Institutions and Persons on GitHub
-==========================================
+Library Institutions and People on GitHub
+=========================================
 
 A rapidly increasing number of libraries, librarians, and developers of
 library software do have an account on GitHub and publish their work as open
