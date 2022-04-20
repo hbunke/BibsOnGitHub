@@ -173,7 +173,6 @@ Zentrale Hochschulbibliothek Lübeck
 Universitätsbibliothek Bamberg 
 [https://github.com/uniba-ub](https://github.com/uniba-ub)
 
-Bibliothek-App VideLibri [https://github.com/benibela/videlibri](https://github.com/benibela/videlibri)
 
 Developers, Librarians
 ----------------------
