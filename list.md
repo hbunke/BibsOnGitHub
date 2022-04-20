@@ -406,6 +406,9 @@ Sascha Szott (formerly at KOBV-Zentrale, now freelancing)
 Marco Tullney (TIB/UB Hannover)
 [https://github.com/tullney](https://github.com/tullney)
 
+Benito van der Zander (VideLibri)
+[https://github.com/benibela](https://github.com/benibela)
+
 Michaela Voigt (TU Berlin)
 [https://github.com/michaelavoigt](https://github.com/michaelavoigt)
 
