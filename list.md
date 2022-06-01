@@ -214,6 +214,9 @@ ETH Library Lab, Zürich CH
 Universitätsbibliothek Regensburg
 [https://github.com/ub-regensburg](https://github.com/ub-regensburg)
 
+Hans-Dieter Klingemann Library at the Berlin International University of Applied Sciences
+[https://github.com/BI-Library](https://github.com/BI-Library)
+
 Developers, Librarians
 ----------------------
 
@@ -330,6 +333,9 @@ Christoph Lorenz (MDZ)
 
 Jan Frederik Maas (SUB Hamburg)
 [https://github.com/jfmaas](https://github.com/jfmaas)
+
+Robertson McIlwain (Berlin International)
+[https://github.com/r-mcilwain](https://github.com/r-mcilwain)
 
 Martin Malmsten (National Library of Sweden)
 [https://github.com/marma/](https://github.com/marma/)
