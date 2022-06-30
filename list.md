@@ -217,6 +217,9 @@ Universitätsbibliothek Regensburg
 Hans-Dieter Klingemann Library at the Berlin International University of Applied Sciences
 [https://github.com/BI-Library](https://github.com/BI-Library)
 
+Universitätsbibliothek Osnabrück
+[https://github.com/Universitaetsbibliothek-Osnabrueck] (https://github.com/Universitaetsbibliothek-Osnabrueck)
+
 Developers, Librarians
 ----------------------
 
