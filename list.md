@@ -253,7 +253,7 @@ Andreas Bohne-Lang (Library of Medical Faculty Mannheim)
 Martin Brändle (Universität Zürich, HBZ/Zentrale Informatik)
 [https://github.com/mpbraendle](https://github.com/mpbraendle)
 
-Hendrik Bunke (ZBW)
+Hendrik Bunke (TIB)
 [https://github.com/hbunke](https://github.com/hbunke)
 
 Pascal Christoph (hbz)
