@@ -177,6 +177,9 @@ National Library of Sweden
 [https://github.com/Kungbib/](https://github.com/Kungbib/)
 [https://github.com/Libris/](https://github.com/Libris/)
 
+Universitätsbibliothek Erlangen-Nürnberg
+[https://github.com/UBEN-Webteam](https://github.com/UBEN-Webteam)
+
 Universitätsbibliothek der LMU München
 [https://github.com/ub-lmu](https://github.com/ub-lmu)
 
