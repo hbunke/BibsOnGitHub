@@ -155,9 +155,6 @@ Staats- und Universitätsbibliothek Hamburg
 Bern University Library
 [https://github.com/ub-unibe-ch](https://github.com/ub-unibe-ch)
 
-Universitätsbibliothek der Technischen Universität Wien
-[https://github.com/UBTUW](https://github.com/UBTUW)
-
 FID Jüdische Studien
 [https://github.com/FID-Judaica](https://github.com/FID-Judaica)
 
