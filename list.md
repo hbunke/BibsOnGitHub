@@ -177,6 +177,9 @@ National Library of Sweden
 [https://github.com/Kungbib/](https://github.com/Kungbib/)
 [https://github.com/Libris/](https://github.com/Libris/)
 
+Universitätsbibliothek Erlangen-Nürnberg
+[https://github.com/UBEN-Webteam](https://github.com/UBEN-Webteam)
+
 Universitätsbibliothek der LMU München
 [https://github.com/ub-lmu](https://github.com/ub-lmu)
 
@@ -214,8 +217,11 @@ ETH Library Lab, Zürich CH
 Universitätsbibliothek Regensburg
 [https://github.com/ub-regensburg](https://github.com/ub-regensburg)
 
-Universitätsbibliothek Erlangen-Nürnberg
-[https://github.com/UBEN-Webteam](https://github.com/UBEN-Webteam)
+Hans-Dieter Klingemann Library at the Berlin International University of Applied Sciences
+[https://github.com/BI-Library](https://github.com/BI-Library)
+
+Universitätsbibliothek Osnabrück
+[https://github.com/Universitaetsbibliothek-Osnabrueck] (https://github.com/Universitaetsbibliothek-Osnabrueck)
 
 Developers, Librarians
 ----------------------
@@ -250,7 +256,7 @@ Andreas Bohne-Lang (Library of Medical Faculty Mannheim)
 Martin Brändle (Universität Zürich, HBZ/Zentrale Informatik)
 [https://github.com/mpbraendle](https://github.com/mpbraendle)
 
-Hendrik Bunke (ZBW)
+Hendrik Bunke (TIB)
 [https://github.com/hbunke](https://github.com/hbunke)
 
 Pascal Christoph (hbz)
@@ -334,6 +340,9 @@ Christoph Lorenz (MDZ)
 Jan Frederik Maas (SUB Hamburg)
 [https://github.com/jfmaas](https://github.com/jfmaas)
 
+Robertson McIlwain (Berlin International)
+[https://github.com/r-mcilwain](https://github.com/r-mcilwain)
+
 Martin Malmsten (National Library of Sweden)
 [https://github.com/marma/](https://github.com/marma/)
 
@@ -408,6 +417,9 @@ Sascha Szott (formerly at KOBV-Zentrale, now freelancing)
 
 Marco Tullney (TIB/UB Hannover)
 [https://github.com/tullney](https://github.com/tullney)
+
+Benito van der Zander (VideLibri)
+[https://github.com/benibela](https://github.com/benibela)
 
 Michaela Voigt (TU Berlin)
 [https://github.com/michaelavoigt](https://github.com/michaelavoigt)
