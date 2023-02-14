@@ -155,8 +155,9 @@ Staats- und Universitätsbibliothek Hamburg
 Bern University Library
 [https://github.com/ub-unibe-ch](https://github.com/ub-unibe-ch)
 
-Universitätsbibliothek der Technischen Universität Wien
-[https://github.com/UBTUW](https://github.com/UBTUW)
+Technischen Universität Wien Bibliothek
+[https://github.com/TUWBIB](https://github.com/TUWBIB)
+[https://gitlab.com/tuub](https://gitlab.com/tuub)
 
 FID Jüdische Studien
 [https://github.com/FID-Judaica](https://github.com/FID-Judaica)
@@ -450,6 +451,9 @@ Jens Witzel (Universität Zürich, Zentrale Informatik)
 
 Kay-Michael Würzner (SLUB Dresden)
 [https://github.com/wrznr](https://github.com/wrznr)
+
+Leo Zachl (TUWBIB)
+[https://github.com/leozachl](https://github.com/leozachl)
 
 David Zellhöfer (SBB Berlin)
 [https://github.com/elektrobohemian](https://github.com/elektrobohemian)
