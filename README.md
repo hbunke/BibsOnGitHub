@@ -1,9 +1,9 @@
-Library Institutions and Persons on GitHub
-==========================================
+Library Institutions and Persons on GitHub and GitLab
+=====================================================
 
 A rapidly increasing number of libraries, librarians, and developers of
-library software do have an account on GitHub and publish their work as open
-source. [This list](list.md) wants to present an (incomplete) overview of these
+library software do have an account on GitHub and GitLab and publish their work as
+open source. [This list](list.md) wants to present an (incomplete) overview of these
 accounts. It started focused on Germany, but is now open for any institution or
 person, mainly from Europe. There's already a similar collection in the
 [Code4LibWiki](http://wiki.code4lib.org/Libraries_Sharing_Code), that focuses
@@ -17,7 +17,7 @@ please file an [Issue](https://github.com/hbunke/BibsOnGitHub/issues).
 Hints
 -----
 
--   Please enter the GitHub URLs with the default markdown syntax.
+-   Please enter the GitHub / GitLab URLs with the default markdown syntax.
     For the representation on GitHub the simple URL would be sufficient, but
     in the future the list could also be used for other display and conversion
     purposes. If you like, you can run the included small script (links.py),
