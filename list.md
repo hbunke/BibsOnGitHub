@@ -435,7 +435,7 @@ Katharina Wäschle (UB Heidelberg)
 [https://github.com/kadowa](https://github.com/kadowa)
 
 Stefan Weil (UB Mannheim)
-[https://github.com/stweil](https://github.com/stweil)
+[https://github.com/stweil](https://github.com/stweil), [https://gitlab.com/stweil](https://gitlab.com/stweil)
 
 Nils Windisch (SUB Göttingen)
 [https://github.com/nilswindisch](https://github.com/nilswindisch)
