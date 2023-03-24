@@ -227,6 +227,9 @@ Universitätsbibliothek Osnabrück
 Zentral- und Hochschulbibliothek Luzern (ZHB Luzern)
 [https://github.com/zhbluzern](https://github.com/zhbluzern), [https://gitlab.com/zhbluzern](https://gitlab.com/zhbluzern)
 
+Universitätsbibliothek Marburg
+[https://github.com/ub-unimr](https://github.com/ub-unimr)
+
 Developers, Librarians
 ----------------------
 
