@@ -13,6 +13,9 @@ Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen
 Gemeinsamer Bibliotheksverbund (GBV Göttingen)
 [https://github.com/gbv](https://github.com/gbv)
 
+KU Leuven Libraries KULeuvenDigitalisering
+[https://github.com/KULeuvenDigitalisering](https://github.com/KULeuvenDigitalisering)
+
 Gemeinsamer Verbünde Index (GVI)
 [https://github.com/gemeinsamerverbuendeindex](https://github.com/gemeinsamerverbuendeindex)
 
