@@ -293,7 +293,7 @@ Fabian Fürste (TU Berlin)
 Henning Gerhardt (SLUB Dresden)
 [https://github.com/henning-gerhardt](https://github.com/henning-gerhardt)
 
-Steffi Grimm (Charité)
+Steffi Grimm (FU Berlin)
 [https://github.com/estfee](https://github.com/estfee)
 
 André Hagenbruch (UB Bochum)
