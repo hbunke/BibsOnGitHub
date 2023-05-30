@@ -37,12 +37,15 @@ Bibliothek der Universität Duisburg-Essen
 Bibliotheksservice-Zentrum Baden-Württemberg (BSZ, Konstanz)
 [https://github.com/BSZBW](https://github.com/BSZBW)
 
+SLUB Saxon State and University Library Dresden
+[https://github.com/slub](https://github.com/slub)
+
+Freie Universität Berlin, Open Encyclopedia System des Center für Digitale Systeme an der Universitätsbibliothek
+[https://github.com/open-encyclopedia-system](https://github.com/open-encyclopedia-system)
+
 Bibliothek der Hochschule Hannover
 [https://github.com/HsH-Bibliothek](https://github.com/HsH-Bibliothek)
 [https://github.com/hsh-bib](https://github.com/hsh-bib)
-
-SLUB Saxon State and University Library Dresden
-[https://github.com/slub](https://github.com/slub)
 
 University Library of Humboldt-Universität zu Berlin
 [https://github.com/UB-HU-Berlin](https://github.com/UB-HU-Berlin)
