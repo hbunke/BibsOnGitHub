@@ -236,7 +236,6 @@ Universitätsbibliothek Marburg
 Lib4RI. Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL
 [https://github.com/Lib4RI](https://github.com/Lib4RI)
 
-
 Developers, Librarians
 ----------------------
 
