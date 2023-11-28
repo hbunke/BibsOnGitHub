@@ -221,6 +221,9 @@ Kooperativer Bibliotheksverbund Berlin-Brandenburg (KOBV)
 ETH Library Lab, Zürich CH
 [https://github.com/eth-library-lab](https://github.com/eth-library-lab)
 
+Zurich University Library of Applied Sciences (ZHAW), Zürich CH
+[https://github.com/zhaw-hsb](https://github.com/zhaw-hsb)
+
 Universitätsbibliothek Regensburg
 [https://github.com/ub-regensburg](https://github.com/ub-regensburg)
 
