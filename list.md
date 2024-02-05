@@ -242,6 +242,9 @@ Universitätsbibliothek Marburg
 Lib4RI. Library for the Research Institutes within the ETH Domain: Eawag, Empa, PSI & WSL
 [https://github.com/Lib4RI](https://github.com/Lib4RI)
 
+Bibliothek der Universität St.Gallen (HSG)
+[https://github.com/HSG-Library](https://github.com/HSG-Library)
+
 Developers, Librarians
 ----------------------
 
@@ -295,6 +298,9 @@ Ralf Eichinger (MDZ)
 
 Christian Erlinger
 [https://github.com/LibrErli](https://github.com/LibrErli), [https://gitlab.com/LibrErli1](https://gitlab.com/LibrErli1)
+
+Jonas Furrer (HSG)
+[https://github.com/d22](https://github.com/d22)
 
 Fabian Fürste (TU Berlin)
 [https://github.com/johlton](https://github.com/johlton)
