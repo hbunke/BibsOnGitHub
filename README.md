@@ -9,6 +9,9 @@ person, mainly from Europe. There's already a similar collection in the
 [Code4LibWiki](http://wiki.code4lib.org/Libraries_Sharing_Code), that focuses
 on the US.
 
+Being on this list is one of the criteria for receiving the
+[Open Library Badge](https://badge.openbiblio.eu/kriterien/).
+
 This is a collaborative project. Additions and suggestions are very welcome.
 Feel free to submit a Pull Request. If you have any questions or suggestions,
 please file an [Issue](https://github.com/hbunke/BibsOnGitHub/issues).
