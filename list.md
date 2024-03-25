@@ -245,6 +245,9 @@ Lib4RI. Library for the Research Institutes within the ETH Domain: Eawag, Empa, 
 Bibliothek der Universität St.Gallen (HSG)
 [https://github.com/HSG-Library](https://github.com/HSG-Library)
 
+Hochschulbibliothek Technische Hochschule Wildau
+[https://github.com/BibliothekTHWildau](https://github.com/BibliothekTHWildau)
+
 Developers, Librarians
 ----------------------
 
