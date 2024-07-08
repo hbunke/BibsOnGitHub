@@ -111,7 +111,7 @@ Max Planck Digital Library - MPDL
 [https://github.com/MPDL](https://github.com/MPDL)
 
 Universitätsbibliothek der TU Hamburg
-[https://github.com/tubhh](https://github.com/tubhh)
+[https://collaborating.tuhh.de/tub](https://collaborating.tuhh.de/tub) and [https://github.com/tubhh](https://github.com/tubhh) 
 
 Staats- und Universitätsbibliothek Bremen
 [https://github.com/suub](https://github.com/suub)
