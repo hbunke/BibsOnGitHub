@@ -25,6 +25,9 @@ Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz Köln)
 Deutsche Digitale Bibliothek
 [https://github.com/Deutsche-Digitale-Bibliothek](https://github.com/Deutsche-Digitale-Bibliothek)
 
+Deutsche Nationalbibliothek
+[https://github.com/deutsche-nationalbibliothek](https://github.com/deutsche-nationalbibliothek)
+
 The British Library
 [https://github.com/britishlibrary](https://github.com/britishlibrary)
 
