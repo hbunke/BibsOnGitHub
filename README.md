@@ -2,11 +2,11 @@ Library Institutions and Persons on GitHub and GitLab
 =====================================================
 
 A rapidly increasing number of libraries, librarians, and developers of
-library software do have an account on GitHub and GitLab and publish their work as
-open source. [This list](list.md) wants to present an (incomplete) overview of these
-accounts. It started focused on Germany, but is now open for any institution or
+library software do have accounts on GitHub and GitLab and publish their work as
+open source. [This list](list.md) aims to present an (incomplete) overview of these
+accounts. It started focused on Germany but is now open for any institution or
 person, mainly from Europe. There's already a similar collection in the
-[Code4LibWiki](http://wiki.code4lib.org/Libraries_Sharing_Code), that focuses
+[Code4LibWiki](http://wiki.code4lib.org/Libraries_Sharing_Code), which focuses
 on the US.
 
 Being on this list is one of the criteria for receiving the
