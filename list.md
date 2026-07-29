@@ -126,7 +126,7 @@ Staats- und Universitätsbibliothek Bremen
 [https://github.com/suub](https://github.com/suub)
 
 Staatsbibliothek zu Berlin
-[https://github.com/StaatsbibliothekBerlin](https://github.com/StaatsbibliothekBerlin)
+[https://github.com/StabiBerlin](https://github.com/StabiBerlin)
 
 ZBW - Leibniz Information Centre for Economics
 [https://github.com/zbw](https://github.com/zbw)
