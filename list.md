@@ -53,6 +53,9 @@ Bibliothek der Hochschule Hannover
 [https://github.com/HsH-Bibliothek](https://github.com/HsH-Bibliothek)
 [https://github.com/hsh-bib](https://github.com/hsh-bib)
 
+hebis-Verbundzentrale Frankfurt
+[https://github.com/HeBIS-VZ](https://github.com/HeBIS-VZ)
+
 University Library of Humboldt-Universität zu Berlin
 [https://github.com/UB-HU-Berlin](https://github.com/UB-HU-Berlin)
 
