@@ -104,6 +104,9 @@ Universitätsbibliothek Dortmund
 University Library Bochum
 [https://github.com/ubbochum](https://github.com/ubbochum)
 
+Universitätsbibliothek Freiburg
+[https://github.com/ubfr](https://github.com/ubfr)
+
 Deutsche Zentralbibliothek für Medizin (ZB MED)
 [https://github.com/zbmed](https://github.com/zbmed)
 
